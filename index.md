@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <section class="hero">
-  <h1>SPRING Doctoral Network</h1>
+  <h1>MSCA SPRING Doctoral Network</h1>
   <p>
     Preparing the next generation of resilience experts for future
     large-scale critical infrastructures through a Europe-wide doctoral training network.
