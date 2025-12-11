@@ -34,6 +34,16 @@ permalink: /
   </p>
 </section>
 
+<section class="recruitment-callout" style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.5rem 2rem; margin: 2rem 0; border-radius: var(--radius);">
+  <h2 style="margin-top: 0; color: var(--eu-blue);">Applications Open</h2>
+  <p style="margin-bottom: 0.5rem;"><strong>Application deadline:</strong> 1st April 2026</p>
+  <p style="margin-bottom: 0.5rem;"><strong>Position starting date:</strong> September 2026</p>
+  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.95rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p>
+  <div style="margin-top: 1rem;">
+    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">View Doctoral Projects</a>
+  </div>
+</section>
+
 <section class="latest-news">
   <h2>Latest News</h2>
   <ul class="news-list">

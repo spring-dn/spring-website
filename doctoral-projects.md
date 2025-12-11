@@ -4,6 +4,13 @@ title: Doctoral Projects
 permalink: /doctoral-projects/
 ---
 
+<div style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: var(--radius);">
+  <h3 style="margin-top: 0; color: var(--eu-blue);">Application Information</h3>
+  <p style="margin-bottom: 0.5rem;"><strong>Application deadline:</strong> 1st April 2026</p>
+  <p style="margin-bottom: 0;"><strong>Position starting date:</strong> September 2026</p>
+  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p>
+</div>
+
 This page lists the 15 SPRING Doctoral Candidate (DC) projects. Each DC focuses on a specific
 aspect of resilience in large-scale critical infrastructures and is hosted by one of the
 beneficiary institutions.
@@ -191,3 +198,4 @@ Each doctoral project combines methodological research with case studies and sec
 energy and transport infrastructures. Detailed descriptions, eligibility criteria and application
 procedures will be published with the recruitment call.
 </p>
+
