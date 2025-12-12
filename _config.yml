@@ -3,7 +3,7 @@ description: "MSCA Doctoral Network for resilience experts in future large-scale
 
 # IMPORTANT for GitHub project pages:
 url: "https://spring-project.eu"      # 
-baseurl: "/spring-website"              # repo name, with leading /
+baseurl: "/"              # repo name, with leading /
 
 markdown: kramdown
 theme: null
