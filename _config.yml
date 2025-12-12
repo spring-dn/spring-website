@@ -2,7 +2,7 @@ title: "SPRING Doctoral Network"
 description: "MSCA Doctoral Network for resilience experts in future large-scale critical infrastructures."
 
 # IMPORTANT for GitHub project pages:
-url: "https://spring-dn.github.io"      # GitHub org/user root
+url: "https://spring-project.eu"      # 
 baseurl: "/spring-website"              # repo name, with leading /
 
 markdown: kramdown
