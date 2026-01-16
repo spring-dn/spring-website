@@ -8,10 +8,87 @@ permalink: /doctoral-projects/
   <h3 style="margin-top: 0; color: var(--eu-blue);">Application Information</h3>
   <p style="margin-bottom: 0.5rem;"><strong>Application deadline:</strong> 1st April 2026</p>
   <p style="margin-bottom: 0;"><strong>Position starting date:</strong> September 2026</p>
-  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p>
+  <p style="margin-bottom: 0;"><strong>How to apply:</strong> Send a  single .pdf file  by email to  contact@spring-project.eu (please see below)</p>
+<!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p> -->
 </div>
 
-This page lists the 15 SPRING Doctoral Candidate (DC) projects. Each DC focuses on a specific aspect of resilience in large-scale critical infrastructures and is hosted by one of the beneficiary institutions.
+<div style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: var(--radius);">
+<h3 style="margin-top: 0; color: var(--eu-blue);">Eligibility Criteria for applicants</h3>
+
+We are looking for talented and highly motivated early career researchers with an Honours BSc and/or MSc degree and experience in computer science, system or communication engineering, or related fields.
+
+Successful applicants will be offered a 36-month employee contract at one of the Beneficiaries (host organisation) where they will be registered as PhD students (Doctoral Candidates (DC)). DCs will receive a salary set out by the Horizon Europe Marie Skłodowska-Curie Actions (MSCA) regulations. The salary includes living and mobility allowances and, if appropriate, a family allowance.
+
+SPRING values gender balance and is committed to creating a diverse environment. All qualified applicants will receive equal opportunities and consideration for employment. 
+
+Please note that all criteria below are mandatory:
+<ul>
+    <li> <strong>Early Career Researchers:</strong> Applicants should, at the time of recruitment, be in the first four years (full time equivalent research experience) of their research careers and not have been awarded a doctorate. </li>
+    <li> 
+<strong>The Mobility Rule:</strong> At the time of recruitment by the host organisation, they must not have resided or carried out their main activity (work, studies, etc.) in the country of their host organisation for more than 12 months in the 3 years immediately prior to the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account.
+</li>
+<li> 
+Admission to the programme is open to applicants who hold a master’s degree or equivalent. A minimum of 240 ECTS and four years of legal duration in total is mandatory
+(please see each project for institutional requirements) or a comparable university degree (Second Cycle qualification), as required by the enrolling universities for admission to doctoral studies. The above-mentioned degrees must be obtained by the time of recruitment/enrollement.
+</li>
+<li> 
+Applicants should be proficient in written and spoken English (minimum level of B2 or equivalent). 
+</li>
+<li> 
+Each applicant must submit a single application to the programme, even if they apply for several positions, which should include:
+<ol type="1">
+  <li>CV.</li>
+  <li>Detailed academic transcripts in the form of certified copies of all undergraduate and postgraduate level certificates.</li>
+  <li>A single motivation letter for several positions.</li>
+  <li>A rank of up to 3 projects (DC positions) as instructed below.</li>
+  <li>A statement clarifying country of residence  during the three years immediately prior to the recruitment date (September 2026), and certifying compliance with The Mobility Rule. </li> 
+  <li>References: name, title, contact details (address, telephone number, email address) and the capacity in which applicant knows them.</li>
+  <li>One example of written work.</li>
+  <li>The Consent Form for Applicants (which can be found attached to this job description) filled in and signed.</li>
+</ol>  
+<li> 
+Each applicant should rank 3 projects that they would like to be considered for, in descending order, together with a short justification for their preference. Applicants should, therefore, be willing to undertake any of the projects they indicated preference for, if they are successful in the application process. The hiring committee may propose to applicants to be shifted for consideration for other projects.  
+</li>
+<li> 
+<strong>Applications should be submitted as a single .pdf document by email to Prof. Nacim Ramdani (project coordinator): 
+contact@spring-project.eu</strong>. 
+</li>
+<li>Each application shall receive an acknowledgment of receipt and a file number. 
+</li>
+<li> 
+Each applicant will be notified in writing of the outcome of their application. Incomplete applications will not be considered.
+</li>
+</ul>
+</div>
+
+
+<div style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: var(--radius);">
+<h3 style="margin-top: 0; color: var(--eu-blue);">Candidates selection process</h3>
+
+The recruitment process consists of the following steps:
+<ol type="1">
+<li>Check eligibility with respect to EU MSCA eligibility criteria.  </li>
+<li>Qualification assesment based on the  provided application documents. Evaluation criteria:  
+<ul>
+<li>Academic background and excellence of the candidate, based on CV and academic outcomes. </li>
+<li>Strength and relevance of the motivation, based on the motivation letter. </li>
+</ul></li>
+<li>Online interview of selected applicants with the supervisors. Evaluation criteria:  
+<ul>
+<li>Academic excellence and understanding of the subjects.
+<li>Career development and professional project. </li>
+<li>Communication skills and maturity of the candidate. </li>
+</ul>
+<li>Ranking of the candidates.</li>
+<li>Face-to-face interview of top candidate with one supervisor or video-interview with three supervisors.
+</li> 
+<li>Formal approval of Doctoral Candidate seletion by the Supervisory Board.</li>
+<li>Job offer.</li>
+</ol>
+
+</div>
+
+Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions available. Each DC focuses on a specific aspect of resilience in large-scale critical infrastructures and is hosted by one of the beneficiary institutions.
 
 <div class="projects-list">
 
