@@ -431,18 +431,18 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
 <details>
   <summary>DC10 – Stealthy attacks diagnosis in networked switched systems</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France, <a href="#">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France, <a href="www.univ-orleans.fr">https://www.univ-orleans.fr/en</a></p>
     <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
     <h3>Project Description</h3>
-    <p><strong>Objectives</strong><br>
+    <p><strong>Objectives</strong><br />
    State-of-the-art model-based fault/anomaly/attack detection and isolation take advantage of system models and a possible redundancy of sensors and actuators to reconstruct unmeasured state and unknown inputs, then use them to compute residues between actual measurements and their estimates. Attack identification and reconstruction leverage consistency relations between combination of appropriately designed residuals. Alternative approaches use banks of unknown input observers to reconstruct attack signals in addition to state variables. However, these techniques do not provide defense-in-depth against a knowledgeable and strategic adversary who can tune stealthy deception attacks, that maximize their impacts while remaining undetected. Moving target defense (MTD) is a popular cyber defense strategy that adds unpredictability about system's state and execution to inhibit attackers' ability to design stealthy attacks. Recently, enhanced versions of the MTD, that introduce stochasticity and non-linearity in the systems, facilitated detection of stealthy attacks and identification of corrupted sensors. Besides, set-based estimators have been developed recently to compute admissible sets for the residues may increase detection robustness. The combination of set-based detectors with MTD strategies for stealthy attack diagnosis has not been investigated yet. Besides, the current approaches have been developed for centralized settings, they do not account for the distributed nature of critical infrastructures, nor the network induced imperfections like variable sampling periods and communication delays. Set-based estimation techniques with non-periodic sampling and delayed measurements have been developed recently by our group can address such network-induced imperfections.
-<br/><br/>
+<br /><br />
 This DC  will advance state of the art by combining enhanced moving target defense strategies with distributed set-based observers working with non-periodic sampling and delayed measurements, to build a strong and robust stealthy attack diagnosis solution for massively distributed control systems in smart grids and transport.
  </p>
 
-    <p><strong>Expected Results</strong><br>
+    <p><strong>Expected Results</strong><br />
 i) A framework for anomaly detection and isolation will account for aperiodic and multi-periodic measurements
 sampling. It will also account for the distributed nature of the CPS. The set of undetectable cyber-physical attacks will also be
 characterized. <br />
