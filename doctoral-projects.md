@@ -131,75 +131,85 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
 <details>
   <summary>DC2 – Increasing self-adaptability through generalizations of diffusive dynamics in SoCPSs</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d’Orléans (UOR) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
-
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France <a href="#">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Supervisors:</strong> Prof. Nacim Ramdani and Prof. Martin Fränzle</p>
+    <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a>; 
+    <a href="mailto:martin.fraenzle@uni-oldenburg.de">martin.fraenzle@uni-oldenburg.de</a>; </p>
+    
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
-    Systematically develop a theory of diffusive dynamics for systems of cyber-physical systems and exploit it to design and analyse resilient supply networks in water and energy domains.
+    The design of distributed critical infrastructures has extensively borrowed from traditional security mechanisms, thus reducing considerably the likelihood of synchronous intrusion at multiple independent points of the network. This fact renders it attractive to devise distributed control schemes that can absorb a small number of distributed synchronous intrusions. Diffusive dynamics-like behavior of the overall network making the functional impact of a small number of intrusions diffuse rapidly over a distributed system without developing significant consequences, provides a general scheme towards designing such self-adaptive networks of CPS with guarantee certificates. Diffusive dynamics notions are well-understood in physical systems subject to conservation laws and have already seen generalisations to settings of distributed control of energy grids by means of gain theorems. Likewise, their exploitation in switched and hybrid systems for Lyapunov-style stability arguments has also been explored. However, the application of such notions to massively distributed switched systems have been less studied and developed, even though they carry prospects for compositional and thus scalable reasoning. <br /> <br/>
+ This DC  will develop a stability theory based on diffusive dynamics for massively distributed switched systems to make them self-adaptable, extending for a distributed setting the advance that has been achieved in local hybrid-state control. This DC will exploit the new theory to design self-adaptive supply networks, which seem ideal candidates as their physical parts come naturally equipped with conservation laws.
     </p>
-
     <p><strong>Expected Results</strong><br>
-    LOREM IPSUM
+ The expected results are: <br />
+ i) A background analysis of diffusive dynamics principles that have the potential or are already applied in the design of distributed control systems; <br />
+ ii) A theory supporting resilient CPS inspired by diffusive dynamics; <br />
+ iii) A report on the proof-of-concept implementation of the proposed theory in supply networks.
     </p>
 
     <h3>Planned Secondments</h3>
-    <p>Planned secondments in...</p>
+    <p>SONE (EL), Mr. George Fakiridis, M12-M14, 3M, Understand user requirements and the use-case scenarios in energy systems and water distribution networks. <br />
+    UOL (DE), Prof. M. Fränzle, M15-M23, 9M, Compositional reasoning for stabilization of hybrid systems of conservation laws. Access to SESA power systems testbed. </p>
 
-    <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+   <h3>Specific Requirements for the Project</h3>
+    <p> 
+    This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
+    </p>
 
     <h3>Gross Salary</h3>
-    <p>54.378 €/year including social security and mobility allowance.</p>
-
-    <h3>Gross Salary to the Employee</h3>
-    <p>XX.XXX €/year that corresponds to X.XXX €/month . Furthermore XXX €/month family allowance if applicable.</p>
+    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p></p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/concent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:xxx@xxx.fr" class="btn btn-secondary">Send application by email</a>
-      <a href="#" class="btn btn-tertiary" target="_blank">Apply through EURAXESS</a>
+      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
 </details>
-
+  
+  
 <details>
   <summary>DC3 – Secure distributed set-based state estimation in networked switched systems</summary>
-  <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d’Orléans (UOR) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+   <div class="project-details">
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France, <a href="#">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
+    <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
-    Secure estimators are algorithms that exploit a redundancy of sensors and actuators in the system to reconstruct the actual system’s state despite integrity attacks on sensors or actuators, while knowing only an upper bound on the relative of number of manipulated sensors and actuators, and without knowing their identities. With distributed CIs, event-triggered frameworks reduce communication overhead without jeopardizing control performance, while mitigating denial-of-service attacks. The state-of-the-art secure estimator use a family of estimators to generate estimates corresponding to different subsets of sensors. Such an approach is NP-hard. Given an upper bound on the number of attacked sensors, and so-called sparse observability condition algorithms have been proposed using satisfiability checkers. To provide precise robust guarantees for state inclusion, which is a crucial feature to ensure safety in CI operation, secure set-based estimators have been introduced by a member of the consortium. These state-of-the-art approaches have been developed for linear systems in centralized settings; they do not consider the distributed nature of the CIs and the network induced imperfections like variable sampling periods and communication delays. Besides, works considering both integrity attacks on sensors and actuators as well as on the network availability (denial-of-service) are rare. Furthermore, current approaches do not scale with respect to number of sensors and actuators. <br> This DC  will advance state of the art by developing a scalable method that can reconstruct unmeasured state vectors in presence of cyber and physical attacks on sensors, actuators and the network. We will extend our own set-based observer to event-triggered sampling for distributed switched systems in presence of multi-rate aperiodic sampling, and to partial state reconstruction  to ensure scalability.
+    Secure estimators are algorithms that exploit a redundancy of sensors and actuators in the system to reconstruct the actual system's state despite integrity attacks on sensors or actuators, while knowing only an upper bound on the relative of number of manipulated sensors and actuators, and without knowing their identities. With distributed Critical Infrastructures (CIs), event-triggered frameworks reduce communication overhead without jeopardizing control performance, while mitigating denial-of-service attacks. The state-of-the-art secure estimator use a family of estimators to generate estimates corresponding to different subsets of sensors. Such an approach is NP-hard. Given an upper bound on the number of attacked sensors, and so-called sparse observability condition algorithms have been proposed using satisfiability checkers. To provide precise robust guarantees for state inclusion, which is a crucial feature to ensure safety in CI operation, secure set-based estimators have been introduced. These state-of-the-art approaches have been developed for linear systems in centralized settings; they do not consider the distributed nature of the CIs and the network induced imperfections like variable sampling periods and communication delays. Besides, works considering both integrity attacks on sensors and actuators as well as on the network availability (denial-of-service) are rare. Furthermore, current approaches do not scale with respect to number of sensors and actuators. <br><br>
+ This DC  will advance state of the art by developing a scalable method that can reconstruct unmeasured state vectors in presence of cyber and physical attacks on sensors, actuators and the network. DC will extend our own set-based observer to event-triggered sampling for distributed switched systems in presence of multi-rate aperiodic sampling, and to partial state reconstruction  to ensure scalability.
     </p>
 
     <p><strong>Expected Results</strong><br>
-    The expected results are: i) A comprehensive literature review of state reconstruction algorithms for increasing resilience in CPS; ii) A set of secure observers (algorithms) that can be applied for increasing resilience of SoCPS; iii) An evaluation report on the testing and validation of the proposed observers in simulated and real-world driven scenarios in water-energy systems
+    The expected results are: i) A comprehensive literature review of state reconstruction algorithms for increasing resilience in CPS; ii) A set of secure observers (algorithms) that can be applied for increasing resilience of CIs; iii) An evaluation report on the testing and validation of the proposed observers in simulated and real-world driven scenarios in water-energy systems
     </p>
 
     <h3>Planned Secondments</h3>
-    <p>UOL (DE), Prof. M. Fränzle, M9-M12, 4M, Guidance on literature review of formal methods for secure estimation of large scale networked systems. SLG (EL), Dr. S. Rizou, M13-M16, 4M, Understand requirements and constraints of resilient monitoring in CI focusing on water-energy systems. UCY (CY), Dr. D. Eliades, M17-M20, 4M, Development of resilient monitoring solutions for interconnected cyber-physical critical infrastructures, using the KIOS Virtual City (water-energy) as a training testbed. </p>
+    <p>UOL (DE), Prof. M. Fränzle, M9-M12, 4M, Guidance on literature review of formal methods for secure estimation of large scale networked systems. <br>
+  SLG (EL), Dr. S. Rizou, M13-M16, 4M, Understand requirements and constraints of resilient monitoring in CI focusing on water-energy systems. 
+ <br>
+  UCY (CY), Dr. D. Eliades, M17-M20, 4M, Development of resilient monitoring solutions for interconnected cyber-physical critical infrastructures, using the KIOS Virtual City (water-energy) as a training testbed. </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p> 
+    This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
+    </p>
 
     <h3>Gross Salary</h3>
-    <p>54.378 €/year including social security and mobility allowance.</p>
+    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p></p>
 
-    <h3>Gross Salary to the Employee</h3>
-    <p>XX.XXX €/year that corresponds to X.XXX €/month . Furthermore XXX €/month family allowance if applicable.</p>
+    
 
     <div class="action-buttons">
-      <a href="{{ '/assets/concent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:xxx@xxx.fr" class="btn btn-secondary">Send application by email</a>
-      <a href="#" class="btn btn-tertiary" target="_blank">Apply through EURAXESS</a>
+      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
+
     </div>
   </div>
 </details>
-
+  
+  
 <details>
   <summary>DC4 – Formalizing resilience and engineering provably resilient-by-design SoCPSs</summary>
   <div class="project-details">
@@ -419,37 +429,44 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
 <details>
   <summary>DC10 – Stealthy attacks diagnosis in networked switched systems</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d’Orléans (UOR) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France, <a href="#">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
+    <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
-    Combine moving-target defence with distributed set-based observers to detect and isolate stealthy cyber-physical attacks in large-scale switched systems, with applications to smart grids and transport.
-    </p>
+   State-of-the-art model-based fault/anomaly/attack detection and isolation take advantage of system models and a possible redundancy of sensors and actuators to reconstruct unmeasured state and unknown inputs, then use them to compute residues between actual measurements and their estimates. Attack identification and reconstruction leverage consistency relations between combination of appropriately designed residuals. Alternative approaches use banks of unknown input observers to reconstruct attack signals in addition to state variables. However, these techniques do not provide defense-in-depth against a knowledgeable and strategic adversary who can tune stealthy deception attacks, that maximize their impacts while remaining undetected. Moving target defense (MTD) is a popular cyber defense strategy that adds unpredictability about system's state and execution to inhibit attackers' ability to design stealthy attacks. Recently, enhanced versions of the MTD, that introduce stochasticity and non-linearity in the systems, facilitated detection of stealthy attacks and identification of corrupted sensors. Besides, set-based estimators have been developed recently to compute admissible sets for the residues may increase detection robustness. The combination of set-based detectors with MTD strategies for stealthy attack diagnosis has not been investigated yet. Besides, the current approaches have been developed for centralized settings, they do not account for the distributed nature of critical infrastructures, nor the network induced imperfections like variable sampling periods and communication delays. Set-based estimation techniques with non-periodic sampling and delayed measurements have been developed recently by our group can address such network-induced imperfections.
+<br/><br/>
+This DC  will advance state of the art by combining enhanced moving target defense strategies with distributed set-based observers working with non-periodic sampling and delayed measurements, to build a strong and robust stealthy attack diagnosis solution for massively distributed control systems in smart grids and transport.
+ </p>
 
     <p><strong>Expected Results</strong><br>
-    LOREM IPSUM
+i) A framework for anomaly detection and isolation will account for aperiodic and multi-periodic measurements
+sampling. It will also account for the distributed nature of the CPS. The set of undetectable cyber-physical attacks will also be
+characterized. <br />
+ii) A report on the proof-of-concept implementation of the proposed approach in smart transportation systems.
     </p>
 
     <h3>Planned Secondments</h3>
-    <p>Planned secondments in...</p>
+    <p>SIEMENS (DE) Dr. M. A. Wischy, M9-M11, 3M, training on security and resilience aspects in rail automation and operation. <br />
+ScienceTokyo (JP) Dr H. Sasahara (M12-M14), 3M, training on secure and resilient cyber-physical system design with applications to smart grids. <br />
+UCY (CY), Dr. D. Eliades, M15-M17, 3M, development of diagnosis and application using the KIOS Virtual City (energy) as a training testbed. <br />
+SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient operation.
+</p>
 
-    <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+  <h3>Specific Requirements for the Project</h3>
+    <p> 
+    This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
+    </p>
 
     <h3>Gross Salary</h3>
-    <p>54.378 €/year including social security and mobility allowance.</p>
+    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p></p>
 
-    <h3>Gross Salary to the Employee</h3>
-    <p>XX.XXX €/year that corresponds to X.XXX €/month . Furthermore XXX €/month family allowance if applicable.</p>
-
+  
     <div class="action-buttons">
-      <a href="{{ '/assets/concent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:xxx@xxx.fr" class="btn btn-secondary">Send application by email</a>
-      <a href="#" class="btn btn-tertiary" target="_blank">Apply through EURAXESS</a>
+      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
-  </div>
 </details>
 
 <details>
