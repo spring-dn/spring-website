@@ -98,9 +98,9 @@ energy and/or transport infrastructures.
 <details>
   <summary>DC1 – Physics-informed adversarial robustness of network models</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Universität Bielefeld (UNIBI) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Universität Bielefeld (UNIBI) Germany <a href="www.uni-bielefeld.de">(www.uni-bielefeld.de)</a></p>
+    <p><strong>Supervisor:</strong> Prof. Barbara Hammer</p>
+    <p><strong>Contacts:</strong> <a href="mailto:bhammer@techfak.uni-bielefeld.de">bhammer@techfak.uni-bielefeld.de</a>; </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -139,7 +139,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 <details>
   <summary>DC2 – Increasing self-adaptability through generalizations of diffusive dynamics in SoCPSs</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France <a href="#">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
     <p><strong>Supervisors:</strong> Prof. Nacim Ramdani and Prof. Martin Fränzle</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a>; 
     <a href="mailto:martin.fraenzle@uni-oldenburg.de">martin.fraenzle@uni-oldenburg.de</a>; </p>
@@ -179,7 +179,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 <details>
   <summary>DC3 – Secure distributed set-based state estimation in networked switched systems</summary>
    <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France, <a href="#">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
     <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
@@ -224,9 +224,10 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 <details>
   <summary>DC4 – Formalizing resilience and engineering provably resilient-by-design SoCPSs</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> University of Oslo (UiO) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> University of Oslo (UiO) Norway <a href="https://www.uio.no/english/">(www.uio.no)</a></p>
+    <p><strong>Supervisor:</strong> Prof. Peter Csaba Ölveczky </p>
+    <p><strong>Contacts:</strong> <a href="mailto:peterol@ifi.uio.no">peterol@ifi.uio.no</a>; 
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -258,9 +259,9 @@ This DC will go beyond the state-of-the-art in formally designing and analyzing 
 <details>
   <summary>DC5 – Explaining complex drift phenomena in networked data</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Universität Bielefeld (UNIBI) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Universität Bielefeld (UNIBI) Germany <a href="www.uni-bielefeld.de">(www.uni-bielefeld.de)</a></p>
+    <p><strong>Supervisor:</strong> Prof. Barbara Hammer</p>
+    <p><strong>Contacts:</strong> <a href="mailto:bhammer@techfak.uni-bielefeld.de">bhammer@techfak.uni-bielefeld.de</a>; </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -301,9 +302,11 @@ This DC  will develop new technologies which can uncover causes of drift and des
 <details>
   <summary>DC6 – Explaining agent decisions in a Lifelong Machine Learning framework</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Eight Bells Ltd (8BEL) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Eight Bells Ltd (8BEL) Cyprus <a href="https://www.8bellsresearch.com/">(www.8bellsresearch.com)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Emmanouil Kafetzakis and Dr. Demetris Eliades (UCY)</p>
+    <p><strong>Contacts:</strong> <a href="mailto:mkafetz@8bellsresearch.com">mkafetz@8bellsresearch.com</a>;
+       <a href="mailto:eliades.demetrios@ucy.ac.cy">eliades.demetrios@ucy.ac.cy</a>
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -335,9 +338,11 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
 <details>
   <summary>DC7 – Correlation modelling and analysis for distributed smart supplies</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> SingularLogic S.A. (SLG) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> SingularLogic S.A. (SLG) Greece <a href="https://portal.singularlogic.eu/en">(portal.singularlogic.eu)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Stamatia Rizou and Prof. Sebastian Lehnhoff (UOL) </p>
+    <p><strong>Contacts:</strong> <a href="mailto:srizou@singularlogic.eu">srizou@singularlogic.eu</a>; 
+      <a href="mailto:sebastian.lehnhoff@offis.de">sebastian.lehnhoff@offis.de</a>
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -374,9 +379,11 @@ This DC  will go beyond state of the art by developing an innovative platform wi
 <details>
   <summary>DC8 – Multi-facetted trust state assessment for distributed smart supplies</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> SingularLogic S.A. (SLG) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> SingularLogic S.A. (SLG) Greece <a href="https://portal.singularlogic.eu/en">(portal.singularlogic.eu)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Stamatia Rizou and Prof. Sebastian Lehnhoff (UOL) </p>
+    <p><strong>Contacts:</strong> <a href="mailto:srizou@singularlogic.eu">srizou@singularlogic.eu</a>; 
+      <a href="mailto:sebastian.lehnhoff@offis.de">sebastian.lehnhoff@offis.de</a>
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -413,9 +420,10 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
 <details>
   <summary>DC9 – Anomaly detection in multi-agent traffic scenarios</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Humatects GmbH (HMT) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Humatects GmbH (HMT) Germany <a href="https://humatects.de/">(humatects.de)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Andreas Lüdtke </p>
+    <p><strong>Contacts:</strong> <a href="mailto:luedtke@humatects.de">luedtke@humatects.de</a>; 
+      </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -453,7 +461,7 @@ Fully and partly autonomous vehicles require state estimation and motion predict
 <details>
   <summary>DC10 – Stealthy attacks diagnosis in networked switched systems</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France, <a href="www.univ-orleans.fr">https://www.univ-orleans.fr/en</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR) France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
     <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
@@ -497,9 +505,11 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
 <details>
   <summary>DC11 – Distributed multi-CPS resilience response principles</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> University of Cyprus (UCY) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> University of Cyprus (UCY) <a href="https://www.ucy.ac.cy/?lang=en">(www.ucy.ac.cy)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Mahtaios Panteli and Dr. Demetris Eliades </p>
+    <p><strong>Contacts:</strong> <a href="mailto:panteli.mathaios@ucy.ac.cy">panteli.mathaios@ucy.ac.cy</a>; 
+      <a href="mailto:eliades.demetrios@ucy.ac.cy">eliades.demetrios@ucy.ac.cy</a>
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -538,9 +548,11 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
 <details>
   <summary>DC12 – A Cyber-Physical Agent-Based Digital Twin Architecture for Resilient Critical Infrastructure Services</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> University of Cyprus (UCY) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> University of Cyprus (UCY) <a href="https://www.ucy.ac.cy/?lang=en">(www.ucy.ac.cy)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Mahtaios Panteli and Dr. Demetris Eliades </p>
+    <p><strong>Contacts:</strong> <a href="mailto:panteli.mathaios@ucy.ac.cy">panteli.mathaios@ucy.ac.cy</a>; 
+      <a href="mailto:eliades.demetrios@ucy.ac.cy">eliades.demetrios@ucy.ac.cy</a>
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -573,9 +585,11 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 <details>
   <summary>DC13 – Model-based testing and contract-based synthesis for resilience of networked CPS</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Carl von Ossietzky Universität Oldenburg (UOL) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Carl von Ossietzky Universität Oldenburg (UOL) Germany <a href="https://uol.de/en">(uol.de)</a></p>
+    <p><strong>Supervisor:</strong> Prof. Martin Fränzle</p>
+    <p><strong>Contacts:</strong> 
+      <a href="mailto:martin.fraenzle@uni-oldenburg.de">martin.fraenzle@uni-oldenburg.de</a>
+    </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -611,9 +625,10 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 <details>
   <summary>DC14 – Robust shielding mechanisms to guarantee safety & performance for safety-critical machine-learning systems</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Graz University of Technology (TUG) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+    <p><strong>Organisation/Institute:</strong> Graz University of Technology (TUG) Austria <a href="https://www.tugraz.at/en/home">(www.tugraz.at)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Bettina Könighofer </p>
+    <p><strong>Contacts:</strong> <a href="mailto:bettina.koenighofer@tugraz.at">bettina.koenighofer@tugraz.at</a>; 
+      </p>
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
@@ -645,9 +660,11 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 <details>
   <summary>DC15 – Explaining Shielding Decisions</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Graz University of Technology (TUG) <a href="#">www.XXX.fr</a></p>
-    <p><strong>Supervisor:</strong> Prof. XXX XXX</p>
-    <p><strong>Contacts:</strong> <a href="mailto:xxx@xxx.fr">xxx@xxx.fr</a>; <a href="mailto:yyy@xxx.fr">ayyy@xxx.fr</a></p>
+     <p><strong>Organisation/Institute:</strong> Graz University of Technology (TUG) Austria <a href="https://www.tugraz.at/en/home">(www.tugraz.at)</a></p>
+    <p><strong>Supervisor:</strong> Dr. Bettina Könighofer </p>
+    <p><strong>Contacts:</strong> <a href="mailto:bettina.koenighofer@tugraz.at">bettina.koenighofer@tugraz.at</a>; 
+      </p>
+
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
