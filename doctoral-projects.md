@@ -61,29 +61,29 @@ Each applicant will be notified in writing of the outcome of their application. 
 </ul>
 </div>
 
-
 <div style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: var(--radius);">
 <h3 style="margin-top: 0; color: var(--eu-blue);">Candidates selection process</h3>
 
 The recruitment process consists of the following steps:
 <ol type="1">
-<li>Check eligibility with respect to EU MSCA eligibility criteria.  </li>
-<li>Qualification assesment based on the  provided application documents. Evaluation criteria:  
-<ul>
-<li>Academic background and excellence of the candidate, based on CV and academic outcomes. </li>
-<li>Strength and relevance of the motivation, based on the motivation letter. </li>
-</ul></li>
-<li>Online interview of selected applicants with the supervisors. Evaluation criteria:  
-<ul>
-<li>Academic excellence and understanding of the subjects.
-<li>Career development and professional project. </li>
-<li>Communication skills and maturity of the candidate. </li>
-</ul>
-<li>Ranking of the candidates.</li>
-<li>Face-to-face interview of top candidate with one supervisor or video-interview with three supervisors.
-</li> 
-<li>Formal approval of Doctoral Candidate seletion by the Supervisory Board.</li>
-<li>Job offer.</li>
+  <li>Check eligibility with respect to EU MSCA eligibility criteria.  </li>
+  <li>Qualification assesment based on the  provided application documents. Evaluation criteria:  
+    <ul>
+      <li>Academic background and excellence of the candidate, based on CV and academic outcomes. </li>
+      <li>Strength and relevance of the motivation, based on the motivation letter. </li>
+    </ul>
+  </li>
+  <li>Online interview of selected applicants with the supervisors. Evaluation criteria:  
+    <ul>
+      <li>Academic excellence and understanding of the subjects.
+      <li>Career development and professional project. </li>
+      <li>Communication skills and maturity of the candidate. </li>
+    </ul>
+  </li>
+  <li>Ranking of the candidates.</li>
+  <li>Face-to-face interview of top candidate with one supervisor or video-interview with three supervisors. </li> 
+  <li>Formal approval of Doctoral Candidate seletion by the Supervisory Board.</li>
+  <li>Job offer.</li>
 </ol>
 
 </div>
