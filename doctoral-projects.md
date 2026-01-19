@@ -24,28 +24,27 @@ SPRING values gender balance and is committed to creating a diverse environment.
 Please note that all criteria below are mandatory:
 <ul>
     <li> <strong>Early Career Researchers:</strong> Applicants should, at the time of recruitment, be in the first four years (full time equivalent research experience) of their research careers and not have been awarded a doctorate. </li>
-    <li> 
-<strong>The Mobility Rule:</strong> At the time of recruitment by the host organisation, they must not have resided or carried out their main activity (work, studies, etc.) in the country of their host organisation for more than 12 months in the 3 years immediately prior to the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account.
-</li>
-<li> 
-Admission to the programme is open to applicants who hold a master’s degree or equivalent. A minimum of 240 ECTS and four years of legal duration in total is mandatory
+    <li> <strong>The Mobility Rule:</strong> At the time of recruitment by the host organisation, they must not have resided or carried out their main activity (work, studies, etc.) in the country of their host organisation for more than 12 months in the 3 years immediately prior to the recruitment date. Compulsory national service, short stays such as holidays, and time spent as part of a procedure for obtaining refugee status under the Geneva Convention are not taken into account.
+    </li>
+    <li>  Admission to the programme is open to applicants who hold a master’s degree or equivalent. A minimum of 240 ECTS and four years of legal duration in total is mandatory
 (please see each project for institutional requirements) or a comparable university degree (Second Cycle qualification), as required by the enrolling universities for admission to doctoral studies. The above-mentioned degrees must be obtained by the time of recruitment/enrollement.
 </li>
 <li> 
 Applicants should be proficient in written and spoken English (minimum level of B2 or equivalent). 
 </li>
 <li> 
-Each applicant must submit a single application to the programme, even if they apply for several positions, which should include:
-<ol type="1">
-  <li>CV.</li>
-  <li>Detailed academic transcripts in the form of certified copies of all undergraduate and postgraduate level certificates.</li>
-  <li>A single motivation letter for several positions.</li>
-  <li>A rank of up to 3 projects (DC positions) as instructed below.</li>
-  <li>A statement clarifying country of residence  during the three years immediately prior to the recruitment date (September 2026), and certifying compliance with The Mobility Rule. </li> 
-  <li>References: name, title, contact details (address, telephone number, email address) and the capacity in which applicant knows them.</li>
-  <li>One example of written work.</li>
-  <li>The Consent Form for Applicants (which can be found attached to this job description) filled in and signed.</li>
-</ol>  
+  Each applicant must submit a single application to the programme, even if they apply for several positions, which should include:
+  <ol type="1">
+      <li>CV.</li>
+      <li>Detailed academic transcripts in the form of certified copies of all undergraduate and postgraduate level certificates.</li>
+      <li>A single motivation letter for several positions.</li>
+      <li>A rank of up to 3 projects (DC positions) as instructed below.</li>
+      <li>A statement clarifying country of residence  during the three years immediately prior to the recruitment date (September 2026), and certifying compliance with The Mobility Rule. </li> 
+      <li>References: name, title, contact details (address, telephone number, email address) and the capacity in which applicant knows them.</li>
+      <li>One example of written work.</li>
+      <li>The Consent Form for Applicants (which can be found attached to this job description) filled in and signed.</li>
+  </ol> 
+</li>
 <li> 
 Each applicant should rank 3 projects that they would like to be considered for, in descending order, together with a short justification for their preference. Applicants should, therefore, be willing to undertake any of the projects they indicated preference for, if they are successful in the application process. The hiring committee may propose to applicants to be shifted for consideration for other projects.  
 </li>
