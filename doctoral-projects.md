@@ -173,15 +173,15 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
-    Design secure, set-based distributed observers that can reconstruct system states under cyber and physical attacks, increasing the resilience of networked water–energy systems.
+    Secure estimators are algorithms that exploit a redundancy of sensors and actuators in the system to reconstruct the actual system’s state despite integrity attacks on sensors or actuators, while knowing only an upper bound on the relative of number of manipulated sensors and actuators, and without knowing their identities. With distributed CIs, event-triggered frameworks reduce communication overhead without jeopardizing control performance, while mitigating denial-of-service attacks. The state-of-the-art secure estimator use a family of estimators to generate estimates corresponding to different subsets of sensors. Such an approach is NP-hard. Given an upper bound on the number of attacked sensors, and so-called sparse observability condition algorithms have been proposed using satisfiability checkers. To provide precise robust guarantees for state inclusion, which is a crucial feature to ensure safety in CI operation, secure set-based estimators have been introduced by a member of the consortium. These state-of-the-art approaches have been developed for linear systems in centralized settings; they do not consider the distributed nature of the CIs and the network induced imperfections like variable sampling periods and communication delays. Besides, works considering both integrity attacks on sensors and actuators as well as on the network availability (denial-of-service) are rare. Furthermore, current approaches do not scale with respect to number of sensors and actuators. <br> This DC  will advance state of the art by developing a scalable method that can reconstruct unmeasured state vectors in presence of cyber and physical attacks on sensors, actuators and the network. We will extend our own set-based observer to event-triggered sampling for distributed switched systems in presence of multi-rate aperiodic sampling, and to partial state reconstruction  to ensure scalability.
     </p>
 
     <p><strong>Expected Results</strong><br>
-    LOREM IPSUM
+    The expected results are: i) A comprehensive literature review of state reconstruction algorithms for increasing resilience in CPS; ii) A set of secure observers (algorithms) that can be applied for increasing resilience of SoCPS; iii) An evaluation report on the testing and validation of the proposed observers in simulated and real-world driven scenarios in water-energy systems
     </p>
 
     <h3>Planned Secondments</h3>
-    <p>Planned secondments in...</p>
+    <p>UOL (DE), Prof. M. Fränzle, M9-M12, 4M, Guidance on literature review of formal methods for secure estimation of large scale networked systems. SLG (EL), Dr. S. Rizou, M13-M16, 4M, Understand requirements and constraints of resilient monitoring in CI focusing on water-energy systems. UCY (CY), Dr. D. Eliades, M17-M20, 4M, Development of resilient monitoring solutions for interconnected cyber-physical critical infrastructures, using the KIOS Virtual City (water-energy) as a training testbed. </p>
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
