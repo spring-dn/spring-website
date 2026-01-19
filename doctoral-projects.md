@@ -74,7 +74,7 @@ The recruitment process consists of the following steps:
   </li>
   <li>Online interview of selected applicants with the supervisors. Evaluation criteria:  
     <ul>
-      <li>Academic excellence and understanding of the subjects.
+      <li>Academic excellence and understanding of the subjects. </li>
       <li>Career development and professional project. </li>
       <li>Communication skills and maturity of the candidate. </li>
     </ul>
@@ -157,7 +157,7 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
     </p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p></p>
+    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -181,7 +181,10 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
     </p>
 
     <p><strong>Expected Results</strong><br>
-    The expected results are: i) A comprehensive literature review of state reconstruction algorithms for increasing resilience in CPS; ii) A set of secure observers (algorithms) that can be applied for increasing resilience of CIs; iii) An evaluation report on the testing and validation of the proposed observers in simulated and real-world driven scenarios in water-energy systems
+    The expected results are: <br />
+    i) A comprehensive literature review of state reconstruction algorithms for increasing resilience in CPS; <br />
+    ii) A set of secure observers (algorithms) that can be applied for increasing resilience of CIs;  <br />
+    iii) An evaluation report on the testing and validation of the proposed observers in simulated and real-world driven scenarios in water-energy systems
     </p>
 
     <h3>Planned Secondments</h3>
@@ -196,7 +199,7 @@ Below is the complete list of the 15 SPRING Doctoral Candidate (DC) positions av
     </p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p></p>
+    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     
 
@@ -459,13 +462,14 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
     </p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p></p>
+    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
   
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
+    
 </details>
 
 <details>
