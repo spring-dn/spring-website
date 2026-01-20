@@ -51,7 +51,7 @@ Each applicant should rank 3 projects that they would like to be considered for,
 </li>
 <li> 
 <strong>Applications should be submitted as a single .pdf document by email to Prof. Nacim Ramdani (project coordinator): 
-<em>contact@spring-project.eu</em></strong>. 
+<a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> </strong>. 
 </li>
 <li>Each application shall receive an acknowledgment of receipt and a file number. 
 </li>
