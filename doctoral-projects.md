@@ -67,13 +67,13 @@ Each applicant will be notified in writing of the outcome of their application. 
 The recruitment process consists of the following steps:
 <ol type="1">
   <li>Eligibility with respect to EU MSCA eligibility criteria is checked. </li>
-  <li>Qualification assesment based on the  provided application documents. Evaluation criteria:  
+  <li>Qualification assesment based on the  provided application documents. <br> Evaluation criteria:  
     <ul>
       <li>Academic background and excellence of the candidate, based on CV and academic outcomes. </li>
       <li>Strength and relevance of the motivation, based on the motivation letter. </li>
     </ul>
   </li>
-  <li>Online interview of selected applicants with the supervisors, including short presentations of the applicants concerning their previous research and first ideas for research in SPRING. Evaluation criteria:  
+  <li>Online interview of selected applicants with the supervisors, including short presentations of the applicants concerning their previous research and first ideas for research in SPRING. <br> Evaluation criteria:  
     <ul>
       <li>Academic excellence and understanding of the subjects. </li>
       <li>Career development and professional project. </li>
