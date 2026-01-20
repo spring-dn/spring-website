@@ -8,7 +8,7 @@ permalink: /doctoral-projects/
   <h3 style="margin-top: 0; color: var(--eu-blue);">Application Information</h3>
   <p style="margin-bottom: 0.5rem;"><strong>Application deadline:</strong> 1st April 2026</p>
   <p style="margin-bottom: 0;"><strong>Position starting date:</strong> September 2026</p>
-  <p style="margin-bottom: 0;"><strong>How to apply:</strong> Send a  single .pdf file  by email to  <em>contact@spring-project.eu</em> (please see below)</p>
+  <p style="margin-bottom: 0;"><strong>How to apply:</strong> Send a  single .pdf file  by email to   <a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> (please see below)</p>
     <p style="margin-bottom: 0;"><strong>Informal inquiery:</strong> Send email to DC supervisors (please see below)  or  Project Coordinator (please see contact section) </p>
 <!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p> -->
 </div>
