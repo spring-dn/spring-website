@@ -18,7 +18,7 @@ permalink: /doctoral-projects/
 
 We are looking for talented and highly motivated early career researchers with an Honours BSc and/or MSc degree and experience in computer science, system or communication engineering, or related fields.
 
-Successful applicants will be offered a 36-month employee contract at one of the Beneficiaries (host organisation) where they will be registered as PhD students (Doctoral Candidates (DC)). DCs will receive a salary set out by the Horizon Europe Marie Skłodowska-Curie Actions (MSCA) regulations. The salary includes living and mobility allowances and, if appropriate, a family allowance.
+Successful applicants will be offered a 36-month employee contract at one of the Beneficiaries (host organisation) where they will be registered as PhD students (Doctoral Candidates (DC)). DCs will receive a salary set out by the Horizon Europe Marie Skłodowska-Curie Actions (MSCA) regulations and national salary agreements. The salary includes living and mobility allowances and, if appropriate, a family allowance.
 
 SPRING values gender balance and is committed to creating a diverse environment. All qualified applicants will receive equal opportunities and consideration for employment. 
 
@@ -66,14 +66,14 @@ Each applicant will be notified in writing of the outcome of their application. 
 
 The recruitment process consists of the following steps:
 <ol type="1">
-  <li>Check eligibility with respect to EU MSCA eligibility criteria.  </li>
+  <li>Eligibility with respect to EU MSCA eligibility criteria is checked. </li>
   <li>Qualification assesment based on the  provided application documents. Evaluation criteria:  
     <ul>
       <li>Academic background and excellence of the candidate, based on CV and academic outcomes. </li>
       <li>Strength and relevance of the motivation, based on the motivation letter. </li>
     </ul>
   </li>
-  <li>Online interview of selected applicants with the supervisors. Evaluation criteria:  
+  <li>Online interview of selected applicants with the supervisors, including short presentations of the applicants concerning their previous research and first ideas for research in SPRING. Evaluation criteria:  
     <ul>
       <li>Academic excellence and understanding of the subjects. </li>
       <li>Career development and professional project. </li>
@@ -128,7 +128,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>MSc or equivalent in ...</p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -167,7 +167,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     </p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>45,561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -209,7 +209,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     </p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>45,561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     
 
@@ -248,7 +248,7 @@ This DC will go beyond the state-of-the-art in formally designing and analyzing 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX  €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -292,10 +292,9 @@ This DC  will develop new technologies which can uncover causes of drift and des
     <h3>Gross Salary to the Employee</h3>
     <p>XX.XXX €/year that corresponds to X.XXX €/month . Furthermore XXX €/month family allowance if applicable.</p>
 
-    <div class="action-buttons">
+        <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:xxx@xxx.fr" class="btn btn-secondary">Send application by email</a>
-      <a href="#" class="btn btn-tertiary" target="_blank">Apply through EURAXESS</a>
+      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
 </details>
@@ -325,9 +324,9 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>Given that the position may involve direct or indirect access to security-sensitive corporate assets, the final offer will be conditional upon successful completion of EIGHT BELLS' internal compliance and conflict-of-interest assessment, which may result in withdrawal of the offer.</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>41,534 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -368,7 +367,7 @@ This DC  will go beyond state of the art by developing an innovative platform wi
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -409,7 +408,7 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -450,7 +449,7 @@ Fully and partly autonomous vehicles require state estimation and motion predict
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -493,7 +492,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
     </p>
 
     <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>45,561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
   
     <div class="action-buttons">
@@ -537,7 +536,7 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -574,7 +573,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -614,7 +613,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>55,556 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -649,7 +648,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -688,7 +687,7 @@ The expected outcomes are: i) algorithms and ii) tools for computing explainable
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 <h3>Gross Salary</h3>
-    <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>XXXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
