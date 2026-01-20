@@ -131,7 +131,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
     </div>
@@ -170,7 +170,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -214,7 +214,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
 
     </div>
@@ -251,7 +251,7 @@ This DC will go beyond the state-of-the-art in formally designing and analyzing 
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -293,7 +293,7 @@ This DC  will develop new technologies which can uncover causes of drift and des
     <p>XX.XXX €/year that corresponds to X.XXX €/month . Furthermore XXX €/month family allowance if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/concent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:xxx@xxx.fr" class="btn btn-secondary">Send application by email</a>
       <a href="#" class="btn btn-tertiary" target="_blank">Apply through EURAXESS</a>
     </div>
@@ -330,7 +330,7 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -371,7 +371,7 @@ This DC  will go beyond state of the art by developing an innovative platform wi
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -412,7 +412,7 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -453,7 +453,7 @@ Fully and partly autonomous vehicles require state estimation and motion predict
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -497,7 +497,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
 
   
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
    </div> 
@@ -540,7 +540,7 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -577,7 +577,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -617,7 +617,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
@@ -691,7 +691,7 @@ The expected outcomes are: i) algorithms and ii) tools for computing explainable
     <p>45.561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
-      <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
