@@ -237,12 +237,37 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 
     <h3>Project Description</h3>
     <p><strong>Objectives</strong><br>
-    Model-based approaches to resilience analysis of CPSs typically rely on two distinct models  (e.g., one called attribute-based models specifying the structure and behaviors of the system, and one called performance-based model analyzing key performance measures, e.g., by simulation or using differential equations. This requires developing two very different models for the same system, which not only duplicates efforts, but also questions the consistency between the different models of the same system. In addition, the attribute-based models are graphs, finite state machines, timed automata, and Petri nets, which are not sufficiently expressive to capture the large critical CPSs targeted in this project. Current state-of-the-art in formal modeling and analysis of (resilient) CPSs assumes either that the models already include the resilience mechanisms, or describe the resilience mechanisms informally (possibly as simple patterns such as the circuit breaker pattern or the retry pattern). Therefore, for each single system, one must manually integrate resilience mechanisms into the design, and must, for each system, prove the resilience of the system. 
+    The goal of this project is to formally specify and analyze the
+correctness and effectiveness of resilience measures for the large
+cyber-physical systems targeted in the doctoral network, and to make
+the methods practically applicable to designers of such systems. 
 <br><br>
-This DC will go beyond the state-of-the-art in formally designing and analyzing resilience for CPSs by (i) using much more expressive formalisms to model CPSs, and (ii) by using the same model to analyze both qualitative and quantitative aspects of the systems, analogous, e.g., to the approach for distributed transaction systems, where the performance model is automatically generated from the attribute-based model. Using an expressive framework should allow us to formalize not only the models, but also the monitoring, mitigation, and recovery strategies themselves. Our goal is to develop an algebra (or library) of formally verified mitigation mechanisms, which directly should lead to a new resilience-by-design system design methodology, where we automatically obtain a resilient-by-construction CPS by applying a set of verified and validated resilience measures, formalized as formal design patterns, to enrich a given CPS model with the desired mitigation mechanisms. </p>
+Formal modeling and analysis of (resilient) CPSs typically assumes either that
+the models already include the resilience mechanisms, or describe the
+resilience mechanisms informally. Therefore, for each
+single system, one must manually integrate resilience mechanisms into
+the design, and must, for each system, prove the resilience of the
+system. Our goal is to develop a library
+of formally verified resilience mechanisms, which should lead
+to a new resilience-by-design system design methodology, where we
+automatically obtain a resilient-by-construction CPS by applying a set
+of verified and validated resilience measures, formalized as formal
+design patterns, to enrich a given CPS model with the desired
+mitigation mechanisms.  </p>
 
     <p><strong>Expected Results</strong><br>
-    This IRP will deliver (i) new verification methods and domain-specific abstraction techniques (e.g., along the line of CPS synchronizers such as TTA and PALS) that make formal analysis feasible for the systems targeted in the project and their resilience measures; (ii) a practical way of analyzing both qualitative and quantitative properties; and (iii) identifying, formalizing, and verify correctness and performance properties of library of formal design patterns for resilience, to enable a formal resilience-by-design system development methodology. Additional goals are to make the developed resilience methods and patterns available to system developers, and to synthesize a (correct-by-construction) distributed system from its formal specification.
+    
+    This IRP will deliver (i) new verification methods and domain-specific
+abstraction techniques that make formal analysis feasible for the systems
+targeted in the project and their resilience measures; (ii) a
+practical way of analyzing both qualitative and quantitative
+properties; and (iii) identifying, formalizing, and verify correctness
+and performance properties of library of formal design patterns for
+resilience, to enable a formal resilience-by-design system development
+methodology. Additional goals are to make the developed resilience
+methods and patterns available to system developers, and to synthesize
+a (correct-by-construction) distributed system from its formal
+specification.  
 </p>
 
     <h3>Planned Secondments</h3>
@@ -251,9 +276,43 @@ This DC will go beyond the state-of-the-art in formally designing and analyzing 
     SIEMENS (DE), Dr. M. A. Wischy, M27-M29, 3M, Evaluation of the analysis approach to smart transportation resilience mechanisms.</p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>
+    
+    <ul>
+    <li>    Applicants must hold a Masterís degree or equivalent in computer
+science, with relevant background (M.Sc. thesis work, courses taken, 
+etc.) in formal methods or closely related topics for this
+project. Candidates without a Masterís degree should complete degree
+by August 15, 2026. </li>
+ <li>
+Foreign completed degree (M.Sc.-level) corresponding to a minimum of
+four years in the Norwegian educational system. 
+</li>
+ <li> A solid background in theoretical computer science is an advantage.
+</li>
+ <li>
+The average grade point for courses included in the Bachelorís
+degree must be C or better in the Norwegian educational system 
+</li>
+ <li>
+The average grade point for courses included in the Masterís degree
+must be B or better in the Norwegian educational system 
+</li>
+ <li> The Master's thesis must have the grade B or better in the Norwegian
+educational system 
+</li>
+ <li>
+Very good oral and written communication skills in English.
+</li>
+ </ul>
+The fellowship requires admission to the PhD program at the Faculty
+of Mathematics and Natural Sciences at the University of Oslo. 
+</p>
 <h3>Gross Salary</h3>
-    <p>XXXX  €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+      Salary in position as a PhD Research fellow, position code 1017 in salary range NOK 550 800 – 595 000 per annum,
+depending on competences and experience. From the salary 2% is deducted in statutory contributions to the State Pension Fund. 
+      </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
