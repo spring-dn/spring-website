@@ -44,7 +44,7 @@ Applicants should be proficient in written and spoken English (minimum level of 
       <li>A rank of up to 3 projects (DC positions) as instructed below.</li>
       <li>A statement clarifying country of residence  during the three years immediately prior to the recruitment date (September 2026), and certifying compliance with The Mobility Rule. </li> 
       <li>References: name, title, contact details (address, telephone number, email address) and the capacity in which applicant knows them.</li>
-      <li>One example of written work.</li>
+      <li>One example of written work (a link to Master thesis, scientific publication or similar work)</li>
       <li>The Consent Form for Applicants (which can be found attached to this job description) filled in and signed.</li>
   </ol> 
 </li>
@@ -75,16 +75,19 @@ The recruitment process consists of the following steps:
       <li>Strength and relevance of the motivation, based on the motivation letter. </li>
     </ul>
   </li>
-  <li>Online interview of selected applicants with the supervisors, including short presentations of the applicants concerning their previous research and first ideas for research in SPRING. <br> Evaluation criteria:  
+  <li>Two-round interview process for  selected applicants with the selection committee.
+    <!-- , including short presentations of the applicants concerning their previous research and first ideas for research in SPRING.--> <br> Evaluation criteria:  
     <ul>
-      <li>Academic excellence and understanding of the subjects. </li>
-      <li>Career development and professional project. </li>
+      <li>Academic excellence. <!-- and understanding of the subjects--> </li>
+    <!--  <li>Personnal career development and professional project. </li>-->
+      <li> Potential to benefit from the doctoral training and contribute to the project. </li>
       <li>Communication skills and maturity of the candidate. </li>
     </ul>
   </li>
+ <!--
   <li>Ranking of the candidates.</li>
   <li>Face-to-face interview of top candidate with one supervisor or video-interview with three supervisors. </li> 
-  <li>Formal approval of Doctoral Candidate seletion by the Supervisory Board.</li>
+  <li>Formal approval of Doctoral Candidate seletion by the Supervisory Board.</li> -->
   <li>Job offer.</li>
 </ol>
 
