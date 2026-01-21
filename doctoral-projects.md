@@ -279,10 +279,10 @@ specification.
     <p>
     
     <ul>
-    <li>    Applicants must hold a Masterís degree or equivalent in computer
+    <li>    Applicants must hold a Master's degree or equivalent in computer
 science, with relevant background (M.Sc. thesis work, courses taken, 
 etc.) in formal methods or closely related topics for this
-project. Candidates without a Masterís degree should complete degree
+project. Candidates without a Master's degree should complete degree
 by August 15, 2026. </li>
  <li>
 Foreign completed degree (M.Sc.-level) corresponding to a minimum of
@@ -291,11 +291,11 @@ four years in the Norwegian educational system.
  <li> A solid background in theoretical computer science is an advantage.
 </li>
  <li>
-The average grade point for courses included in the Bachelorís
+The average grade point for courses included in the Bachelor's
 degree must be C or better in the Norwegian educational system 
 </li>
  <li>
-The average grade point for courses included in the Masterís degree
+The average grade point for courses included in the Master's degree
 must be B or better in the Norwegian educational system 
 </li>
  <li> The Master's thesis must have the grade B or better in the Norwegian
