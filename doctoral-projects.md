@@ -169,17 +169,9 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
    <h3>Specific Requirements for the Project</h3>
     <p> 
     This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
-
-<ul>
-<li>  
-The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026.
-</li>  
-<li> Ideal candidates will have a strong academic record.
-</li>  
-<li> Very good oral and written communication skills in English.
-</li>
-</ul>
-      
+    </p>
+    <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
+    <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
 
     <h3>Salary</h3>
@@ -220,23 +212,13 @@ The ideal applicant possesses good background in control theory or related subje
   UCY (CY), Dr. D. Eliades, M17-M20, 4M, Development of resilient monitoring solutions for interconnected cyber-physical critical infrastructures, using the KIOS Virtual City (water-energy) as a training testbed. </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p> 
+        <p> 
     This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
     </p>
-
- 
-<ul>
-<li>  
-The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026.
-</li>  
-<li> Ideal candidates will have a strong academic record.
-</li>  
-<li> Very good oral and written communication skills in English.
-</li>
-</ul>
-      
+    <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
+    <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
-
+    
     <h3>Salary</h3>
     <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
@@ -574,21 +556,11 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
 </p>
 
   <h3>Specific Requirements for the Project</h3>
-    <p> 
+       <p> 
     This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
     </p>
-
-  
-<ul>
-<li>  
-The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026.
-</li>  
-<li> Ideal candidates will have a strong academic record.
-</li>  
-<li> Very good oral and written communication skills in English.
-</li>
-</ul>
-      
+    <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
+    <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
 
     <h3>Salary</h3>
