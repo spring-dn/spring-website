@@ -183,7 +183,7 @@ The ideal applicant possesses good background in control theory or related subje
     </p>
 
     <h3>Salary</h3>
-    <p>39,465€ per year as ``gross'' salary (<i> salaire brut </i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -238,7 +238,7 @@ The ideal applicant possesses good background in control theory or related subje
     </p>
 
     <h3>Salary</h3>
-    <p>39,465€ per year as ``gross'' salary (<i> salaire brut </i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
  
     
@@ -413,7 +413,7 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
     <h3>Specific Requirements for the Project</h3>
     <p>Given that the position may involve direct or indirect access to security-sensitive corporate assets, the final offer will be conditional upon successful completion of EIGHT BELLS' internal compliance and conflict-of-interest assessment, which may result in withdrawal of the offer.</p>
 <h3>Salary</h3>
-    <p>41,534 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>41,534 €/year as gross salary (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -592,7 +592,7 @@ The ideal applicant possesses good background in control theory or related subje
     </p>
 
     <h3>Salary</h3>
-    <p>39,465€ per year as ``gross'' salary (<i> salaire brut </i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
  
   
@@ -761,7 +761,7 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
 <h3> Salary</h3>
     <p>
-     The ``Gross'' salary (<i> Bruttogehalt </i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+     The gross salary (<i>Bruttogehalt</i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -812,7 +812,7 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
 <h3> Salary</h3>
     <p>
-     The ``Gross'' salary (<i> Bruttogehalt </i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+     The gross salary (<i>Bruttogehalt</i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
