@@ -132,7 +132,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 
-    <h3>Gross Salary</h3>
+    <h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -169,10 +169,21 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
    <h3>Specific Requirements for the Project</h3>
     <p> 
     This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
+
+<ul>
+<li>  
+The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026.
+</li>  
+<li> Ideal candidates will have a strong academic record.
+</li>  
+<li> Very good oral and written communication skills in English.
+</li>
+</ul>
+      
     </p>
 
-    <h3>Gross Salary</h3>
-    <p>45,561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <h3>Salary</h3>
+    <p>39,465€ per year as ``gross'' salary (<i> salaire brut </i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -213,9 +224,23 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
     </p>
 
-    <h3>Gross Salary</h3>
-    <p>45,561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+ 
+<ul>
+<li>  
+The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026.
+</li>  
+<li> Ideal candidates will have a strong academic record.
+</li>  
+<li> Very good oral and written communication skills in English.
+</li>
+</ul>
+      
+    </p>
 
+    <h3>Salary</h3>
+    <p>39,465€ per year as ``gross'' salary (<i> salaire brut </i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+
+ 
     
 
     <div class="action-buttons">
@@ -308,7 +333,7 @@ Very good oral and written communication skills in English.
 The fellowship requires admission to the PhD program at the Faculty
 of Mathematics and Natural Sciences at the University of Oslo. 
 </p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>
       Salary in position as a PhD Research fellow, position code 1017 in salary range NOK 550 800 – 595 000 per annum,
 depending on competences and experience. From the salary 2% is deducted in statutory contributions to the State Pension Fund. 
@@ -350,11 +375,9 @@ This DC  will develop new technologies which can uncover causes of drift and des
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
 
-    <h3>Gross Salary</h3>
-    <p>54.378 €/year including social security and mobility allowance.</p>
+    <h3>Salary</h3>
+    <p>XXXX €/year including social security and mobility allowance.</p>
 
-    <h3>Gross Salary to the Employee</h3>
-    <p>XX.XXX €/year that corresponds to X.XXX €/month . Furthermore XXX €/month family allowance if applicable.</p>
 
         <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -389,7 +412,7 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
 
     <h3>Specific Requirements for the Project</h3>
     <p>Given that the position may involve direct or indirect access to security-sensitive corporate assets, the final offer will be conditional upon successful completion of EIGHT BELLS' internal compliance and conflict-of-interest assessment, which may result in withdrawal of the offer.</p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>41,534 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -430,7 +453,7 @@ This DC  will go beyond state of the art by developing an innovative platform wi
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -471,7 +494,7 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -512,7 +535,7 @@ Fully and partly autonomous vehicles require state estimation and motion predict
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -555,9 +578,23 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
     This position is being located in a ``Zone à Régime Restrictif'' (Restricted Area) in the sense provided by article R 413-5-1 of the French penal code. Appointment can only take place after an access authorisation delivered by the head of the institution, as stated in article 20-4 of decree n°84-431 of 6 June 1984 (National Law, France). 
     </p>
 
-    <h3>Gross Salary</h3>
-    <p>45,561 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+  
+<ul>
+<li>  
+The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026.
+</li>  
+<li> Ideal candidates will have a strong academic record.
+</li>  
+<li> Very good oral and written communication skills in English.
+</li>
+</ul>
+      
+    </p>
 
+    <h3>Salary</h3>
+    <p>39,465€ per year as ``gross'' salary (<i> salaire brut </i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+
+ 
   
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -599,7 +636,7 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -636,7 +673,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
+<h3>Salary</h3>
     <p>XXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
@@ -676,8 +713,8 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 
     <h3>Specific Requirements for the Project</h3>
     <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
-    <p>55,556 €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+<h3> Salary</h3>
+    <p> XXXX  €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -710,9 +747,21 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
-    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+<ul>
+<li>  
+Applicants must hold a Master's degree or equivalent in computer science, mathematics, or similar, with relevant in formal methods, logic, machine learning, AI, or closely related topics for this project. Candidates without a Master's degree should complete degree by August 15, 2026.
+</li>  
+<li> Ideal candidates will have a strong academic record.
+</li>  
+<li> Very good oral and written communication skills in English.
+</li>
+</ul>
+</p>
+
+<h3> Salary</h3>
+    <p>
+     The ``Gross'' salary (<i> Bruttogehalt </i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -749,9 +798,21 @@ The expected outcomes are: i) algorithms and ii) tools for computing explainable
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
-<h3>Gross Salary</h3>
-    <p>XXXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+<ul>
+<li>  
+Applicants must hold a Master's degree or equivalent in computer science, mathematics, or similar, with relevant in formal methods, logic, machine learning, AI, or closely related topics for this project. Candidates without a Master's degree should complete degree by August 15, 2026.
+</li>  
+<li> Ideal candidates will have a strong academic record.
+</li>  
+<li> Very good oral and written communication skills in English.
+</li>
+</ul>
+</p>
+
+<h3> Salary</h3>
+    <p>
+     The ``Gross'' salary (<i> Bruttogehalt </i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
