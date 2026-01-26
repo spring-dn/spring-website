@@ -16,6 +16,11 @@ permalink: /doctoral-projects/
 <!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p> -->
 </div>
 
+<div style="margin-top: 1rem;">
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="button">Apply online for these positions</a>
+  </div>
+
+
 <div style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: var(--radius);">
 <h3 style="margin-top: 0; color: var(--eu-blue);">Eligibility Criteria for applicants</h3>
 
