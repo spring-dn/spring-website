@@ -8,7 +8,10 @@ permalink: /doctoral-projects/
   <h3 style="margin-top: 0; color: var(--eu-blue);">Application Information</h3>
   <p style="margin-bottom: 0.5rem;"><strong>Application deadline:</strong> 1st April 2026</p>
   <p style="margin-bottom: 0;"><strong>Position starting date:</strong> September 2026</p>
-  <p style="margin-bottom: 0;"><strong>How to apply:</strong> Send a  single .pdf file  by email to   <a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> (please see below)</p>
+  <p style="margin-bottom: 0;"><strong>How to apply:</strong> 
+    Applications should be submitted via the online <a href="https://forms.gle/Ddzx69BumaSjFMvYA">Application Form</a> (please see below)
+   <!-- Send a  single .pdf file  by email to   <a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> -->
+  </p>
     <p style="margin-bottom: 0;"><strong>Informal inquiery:</strong> Send email to DC supervisors (please see below)  or  Project Coordinator (please see contact section) </p>
 <!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p> -->
 </div>
@@ -38,22 +41,24 @@ Applicants should be proficient in written and spoken English (minimum level of 
 <li> 
   Each applicant must submit a <strong> single application </strong> to the programme, even if they apply for several positions, which should include:
   <ol type="1">
-      <li>CV.</li>
+      
+      <li>A single motivation letter for several positions, and a rank of up to 3 projects (DC positions) (with a brief justification of the ranking when applying to more than one position, as indicated below).</li>
+      <li>Curriculum Vitae.</li>
       <li>Detailed academic transcripts in the form of certified copies of all undergraduate and postgraduate level certificates.</li>
-      <li>A single motivation letter for several positions.</li>
-      <li>A rank of up to 3 projects (DC positions) as instructed below.</li>
-      <li>A statement clarifying country of residence  during the three years immediately prior to the recruitment date (September 2026), and certifying compliance with The Mobility Rule. </li> 
       <li>References: name, title, contact details (address, telephone number, email address) and the capacity in which applicant knows them.</li>
       <li>One example of written work (a link to Master thesis, scientific publication or similar work)</li>
       <li>The Consent Form for Applicants (which can be found attached to this job description) filled in and signed.</li>
   </ol> 
 </li>
 <li> 
-Each applicant should rank up to 3 projects that they would like to be considered for, in descending order, together with a short justification for their preference. Applicants should, therefore, be willing to undertake any of the projects they indicated preference for, if they are successful in the application process. The hiring committee may propose to applicants to be shifted for consideration for other projects.  
+Each applicant may rank up to 3 projects that they would like to be considered for, in descending order, together with a short justification for their preference. Applicants should, therefore, be willing to undertake any of the projects they indicated preference for, if they are successful in the application process. The hiring committee may propose to applicants to be shifted for consideration for other projects.  
 </li>
 <li> 
-<strong>Applications should be submitted as a single .pdf document by email to Prof. Nacim Ramdani (project coordinator): 
+<strong>Applications should be submitted via the online <a href="https://forms.gle/Ddzx69BumaSjFMvYA">Application Form</a> 
+  <!--
+  as a single .pdf document by email to Prof. Nacim Ramdani (project coordinator): 
 <a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> </strong>. 
+  -->
 </li>
 <li>Each application shall receive an acknowledgment of receipt and a file number. 
 </li>
