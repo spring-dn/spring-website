@@ -188,7 +188,6 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
       <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
 </details>
@@ -238,8 +237,8 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+  
     </div>
   </div>
 </details>
@@ -334,8 +333,8 @@ depending on competences and experience. From the salary 2% is deducted in statu
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+        <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+  </div>
   </div>
 </details>
 
@@ -374,8 +373,8 @@ This DC  will develop new technologies which can uncover causes of drift and des
 
         <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+     <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -410,7 +409,8 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+
     </div>
   </div>
 </details>
@@ -451,7 +451,7 @@ This DC  will go beyond state of the art by developing an innovative platform wi
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
+      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
     </div>
   </div>
 </details>
@@ -492,8 +492,8 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -533,8 +533,8 @@ Fully and partly autonomous vehicles require state estimation and motion predict
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -582,8 +582,8 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
   
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
    </div> 
 </details>
 
@@ -625,8 +625,8 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -662,8 +662,8 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -702,8 +702,8 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -749,8 +749,8 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      </div>
   </div>
 </details>
 
@@ -800,8 +800,8 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
-    </div>
+        <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+  </div>
   </div>
 </details>
 
