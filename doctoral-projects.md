@@ -187,6 +187,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
+      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
       <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
     </div>
   </div>
