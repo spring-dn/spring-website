@@ -180,7 +180,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
     <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
-    <p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (MIPTIS) at the University of Orléans. </p>
+    <p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (<a href="https://collegedoctoral-cvl.fr/as/ed/page.pl?site=CDCVL&page=ed551">MIPTIS</a>) at the University of Orléans. </p>
 
     <h3>Salary</h3>
     <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
@@ -226,7 +226,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
     <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
-<p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (MIPTIS) at the University of Orléans. </p>
+<p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (<a href="https://collegedoctoral-cvl.fr/as/ed/page.pl?site=CDCVL&page=ed551">MIPTIS</a>) at the University of Orléans. </p>
     
     
     <h3>Salary</h3>
@@ -577,7 +577,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
     <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
     <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
-<p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (MIPTIS) at the University of Orléans. </p>
+<p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (<a href="https://collegedoctoral-cvl.fr/as/ed/page.pl?site=CDCVL&page=ed551">MIPTIS</a>) at the University of Orléans. </p>
 
     <h3>Salary</h3>
     <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
