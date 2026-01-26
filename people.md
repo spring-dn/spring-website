@@ -47,9 +47,9 @@ use cases, secondments, testbeds and training:
 - **AVL List GmbH (Austria)**, Mr. Stefan Marksteiner
 - **Electricity Authority of Cyprus (Cyprus)**, Dr. Chrysovalantis Spanias
 - **Honda Research Institute Europe GmbH (Germany)**, Dr. Markus Olhofer
-- **Électricité de France (France)**, Mr. F. Silvi
-- **Centre National de la Recherche Scientifique (France)**, Dr. V. Migliore
-- **Institute of Science Tokyo (Japan)**, Dr H. Sasahara 
+- **Électricité de France (France)**, Mr. Frederic Silvi
+- **Centre National de la Recherche Scientifique (France)**, Dr. Vincent Migliore
+- **Institute of Science Tokyo (Japan)**, Dr Hampei Sasahara 
 - **Space Hellas S.A. (Greece)**, Dr. George Gardikis
 - **Sense One Technologies (Greece)**, Mr. George Fakiridis
 
