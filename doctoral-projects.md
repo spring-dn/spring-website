@@ -445,7 +445,9 @@ This DC  will go beyond state of the art by developing an innovative platform wi
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>  
+    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology OLTECH  at the University of Oldenburg, Germany. 
+</p>
 <h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
@@ -486,7 +488,8 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology OLTECH  at the University of Oldenburg, Germany. 
+</p>
 <h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
@@ -696,9 +699,13 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>
+    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology OLTECH  at the University of Oldenburg.
+    </p>
 <h3> Salary</h3>
-    <p> XXXX  €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p> 
+      The gross salary (<i>Bruttogehalt</i>) is at least 4,629.74€  per month or 55,556.88€ per annum (includes social security contributions and mobility allowance), with an increase based on experience. Additional family allowance is provided if applicable.
+    </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
