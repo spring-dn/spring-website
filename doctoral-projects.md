@@ -16,10 +16,6 @@ permalink: /doctoral-projects/
 <!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.9rem; color: var(--text-muted);">More details about the application and recruitment process will be published soon.</p> -->
 </div>
 
-<div style="margin-top: 1rem;">
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="button">Apply online for these positions</a>
-  </div>
-
 
 <div style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.2rem 1.5rem; margin: 2rem 0; border-radius: var(--radius);">
 <h3 style="margin-top: 0; color: var(--eu-blue);">Eligibility Criteria for applicants</h3>
@@ -148,7 +144,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="mailto:contact@spring-project.eu" class="btn btn-secondary">Send application by email</a>
+      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-secondary">Apply online for these positions</a>
     </div>
     </div>
 </details>
