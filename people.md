@@ -17,23 +17,23 @@ permalink: /people/
 
 These are the SPRING beneficiaries:
 
-- **PRISME Research Center, Université d’Orléans (France) - Project Coordinator**  
+- **PRISME Research Center, Université d’Orléans (France)**, Prof. Nacim Ramdani - Project Coordinator
 
-- **Department of Computing Science, Carl von Ossietzky Universität Oldenburg (Germany)**  
+- **Department of Computing Science, Carl von Ossietzky Universität Oldenburg (Germany)**, Prof. Martin Fränzle & Prof. Sebastian Lehnoff 
 
-- **Center for Cognitive Interaction Technology, Universität Bielefeld (Germany)**  
+- **Center for Cognitive Interaction Technology, Universität Bielefeld (Germany)**, Prof. Barbara Hammer 
 
-- **Department of Informatics, University of Oslo (Norway)**  
+- **Department of Informatics, University of Oslo (Norway)**, Prof. Peter Csaba Ölveczky
 
-- **Institute for Information Processing and Communication, Graz University of Technology (Austria)**  
+- **Institute for Information Processing and Communication, Graz University of Technology (Austria)**, Dr. Bettina Könighofer
 
-- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**  
+- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**, Dr. Mahtaios Panteli and Dr. Demetris Eliades 
   
-- **SingularLogic S.A. (Greece)**  
+- **SingularLogic S.A. (Greece)**, Dr Stamatia Rizou
 
-- **Eight Bells Ltd (Cyprus)**  
+- **Eight Bells Ltd (Cyprus)**, Dr. Charalampos Skianis
 
-- **Humatects GmbH (Germany)**  
+- **Humatects GmbH (Germany)**, Dr. Andreas Lüdtke  
 
 ---
 
@@ -42,16 +42,16 @@ These are the SPRING beneficiaries:
 SPRING is supported by a strong network of associated academic and industrial partners, which contribute
 use cases, secondments, testbeds and training:
 
-- **Siemens Mobility GmbH (Germany)** 
-- **SINTEF AS (Norway)** 
-- **AVL List GmbH (Austria)** 
-- **Electricity Authority of Cyprus (Cyprus)** 
-- **Honda Research Institute Europe GmbH (Germany)** 
-- **Électricité de France (France)** 
-- **Centre National de la Recherche Scientifique (France)** 
-- **Institute of Science Tokyo (Japan)** 
-- **Space Hellas S.A. (Greece)** 
-- **Sense One Technologies (Greece)** 
+- **Siemens Mobility GmbH (Germany)**, Mr. Markus A. Wischy
+- **SINTEF AS (Norway)**, Dr. Bjørnar Luteberget
+- **AVL List GmbH (Austria)**, Mr. Stefan Marksteiner
+- **Electricity Authority of Cyprus (Cyprus)**, Dr. Chrysovalantis Spanias
+- **Honda Research Institute Europe GmbH (Germany)**, Dr. Markus Olhofer
+- **Électricité de France (France)**, Mr. F. Silvi
+- **Centre National de la Recherche Scientifique (France)**, Dr. V. Migliore
+- **Institute of Science Tokyo (Japan)**, Dr H. Sasahara 
+- **Space Hellas S.A. (Greece)**, Dr. George Gardikis
+- **Sense One Technologies (Greece)**, Mr. George Fakiridis
 
 ---
 
