@@ -54,11 +54,12 @@ Applicants should be proficient in written and spoken English (minimum level of 
 Each applicant may rank up to 3 projects that they would like to be considered for, in descending order, together with a short justification for their preference. Applicants should, therefore, be willing to undertake any of the projects they indicated preference for, if they are successful in the application process. The hiring committee may propose to applicants to be shifted for consideration for other projects.  
 </li>
 <li> 
-<strong>Applications should be submitted via the online <a href="https://forms.gle/Ddzx69BumaSjFMvYA">Application Form</a> 
+<strong>Applications should be submitted via the online <a href="https://forms.gle/Ddzx69BumaSjFMvYA">Application Form</a>. 
   <!--
   as a single .pdf document by email to Prof. Nacim Ramdani (project coordinator): 
-<a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> </strong>. 
+<a href="mailto:contact@spring-project.eu">contact@spring-project.eu</a> . 
   -->
+  </strong>
 </li>
 <li>Each application shall receive an acknowledgment of receipt and a file number. 
 </li>
