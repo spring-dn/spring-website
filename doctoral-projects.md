@@ -145,7 +145,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 <details>
   <summary>DC2 – Increasing self-adaptability through generalizations of diffusive dynamics in SoCPSs</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), located in  Bourges, France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
     <p><strong>Supervisors:</strong> Prof. Nacim Ramdani and Prof. Martin Fränzle</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a>; 
     <a href="mailto:martin.fraenzle@uni-oldenburg.de">martin.fraenzle@uni-oldenburg.de</a>; </p>
@@ -173,6 +173,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
     <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
+    <p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (MIPTIS) at the University of Orléans. </p>
 
     <h3>Salary</h3>
     <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
@@ -188,7 +189,7 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
 <details>
   <summary>DC3 – Secure distributed set-based state estimation in networked switched systems</summary>
    <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), located in  Bourges, France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
     <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
@@ -218,6 +219,8 @@ HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interact
     <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
     <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
+<p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (MIPTIS) at the University of Orléans. </p>
+    
     
     <h3>Salary</h3>
     <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
@@ -530,7 +533,7 @@ Fully and partly autonomous vehicles require state estimation and motion predict
 <details>
   <summary>DC10 – Stealthy attacks diagnosis in networked switched systems</summary>
   <div class="project-details">
-    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR) France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
+    <p><strong>Organisation/Institute:</strong> Université d'Orléans (UOR), located in  Bourges,  France <a href="https://www.univ-orleans.fr">(www.univ-orleans.fr)</a></p>
     <p><strong>Supervisor:</strong> Prof. Nacim Ramdani</p>
     <p><strong>Contacts:</strong> <a href="mailto:nacim.ramdani@univ-orleans.fr">nacim.ramdani@univ-orleans.fr</a></p>
 
@@ -562,6 +565,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
     <p>  The ideal applicant possesses good background in control theory or related subjects. They have completed or about to complete a Master 2 or Engineering degree in the appropriate field. Candidates without a Master's degree should complete degree before September 2026. </p>
     <p> Ideal candidates will have a strong academic record and very good oral and written communication skills in English.      
     </p>
+<p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (MIPTIS) at the University of Orléans. </p>
 
     <h3>Salary</h3>
     <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
