@@ -446,7 +446,7 @@ This DC  will go beyond state of the art by developing an innovative platform wi
 
     <h3>Specific Requirements for the Project</h3>
     <p>  
-    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology OLTECH  at the University of Oldenburg, Germany. 
+    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg, Germany. 
 </p>
 <h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
@@ -488,7 +488,8 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology OLTECH  at the University of Oldenburg, Germany. 
+    <p>    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology 
+    <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg, Germany. 
 </p>
 <h3>Salary</h3>
     <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
@@ -700,7 +701,8 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 
     <h3>Specific Requirements for the Project</h3>
     <p>
-    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology OLTECH  at the University of Oldenburg.
+    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology 
+    <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg. 
     </p>
 <h3> Salary</h3>
     <p> 
