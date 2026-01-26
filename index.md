@@ -11,7 +11,9 @@ permalink: /
   </p>
   <p class="hero-meta">
     Horizon Europe – Marie Skłodowska-Curie Actions (MSCA) Doctoral Network<br>
-    Grant Agreement No. 101227080 (SPRING)
+    <a href="https://cordis.europa.eu/project/id/101227080">
+        Grant Agreement No. 101227080 (SPRING)
+    </a>
   </p>
   <div class="hero-actions">
     <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">
