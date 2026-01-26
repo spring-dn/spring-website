@@ -27,7 +27,7 @@ These are the SPRING beneficiaries:
 
 - **Institute for Information Processing and Communication, Graz University of Technology (Austria)**, Dr. Bettina Könighofer
 
-- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**, Dr. Mahtaios Panteli and Dr. Demetris Eliades 
+- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**, Dr. Mahtaios Panteli & Dr. Demetris Eliades 
   
 - **SingularLogic S.A. (Greece)**, Dr Stamatia Rizou
 
