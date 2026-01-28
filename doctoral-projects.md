@@ -469,7 +469,8 @@ This DC  will go beyond state of the art by developing an innovative platform wi
     The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg, Germany. 
 </p>
 <h3>Salary</h3>
-    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+    </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -512,7 +513,9 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
     <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg, Germany. 
 </p>
 <h3>Salary</h3>
-    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+    
+    </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -646,9 +649,14 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>
+    </p>
 <h3>Salary</h3>
-    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+            <!--
+      XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.
+    -->      
+    </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -683,9 +691,13 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     HMT (DE) Dr. A. Lüdtke, M15-20, 6M, Guidance on human-centered design and study of digital twins from an industrial point-of-view.  </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p>
+    The fellowship requires admission to the PhD program  at the University of Cyprus.
+    </p>
 <h3>Salary</h3>
-    <p>XXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+      <!-- XXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable. -->
+    </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
