@@ -551,9 +551,12 @@ Fully and partly autonomous vehicles require state estimation and motion predict
 </p>
 
     <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    <p> 
+    The fellowship requires admission to the PhD program of the  Graduate School Science, Medicine and Technology 
+    <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg. 
+    </p>
 <h3>Salary</h3>
-    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p> The gross salary (Bruttogehalt) is at least 3,908€ per month or 46,899€ per annum (includes social security contributions and mobility allowance), with an increase based on experience. Additional family allowance is provided if applicable.  </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
