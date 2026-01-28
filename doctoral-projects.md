@@ -136,11 +136,21 @@ UCY (CY), Dr. D. Eliade, M27-M30, 4M, transfer of technologies to pump control i
 HRI (DE), Dr. M. Olhofer, M32-35, 4M, transfer of technologies to human interaction in transportation
 </p> 
 
-<h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+<h3>Specific Requirements for the Project</h3>  
+    <p>
+      <ul>
+      <li> Excellent programming skills, including Python </li>
+      <li>  Knowledge of machine learning </li>
+      <li>  Experience in deep learning   </li>
+      <li> Advanced skills in mathematical modeling </li>
+      </ul>
+   </p> 
+<p> This fellowship requires admission to the 
+Doctoral studies of Intelligent Systems at the  <a href="https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/forschung/forschungszentren/citec/">CITEC</a> graduate school at the University of Bielefeld.     </p>
 
     <h3>Salary</h3>
-    <p>XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>
+Remuneration is based on pay scale 13 of the collective agreement for the public sector in the federal states (TV-L), which currently amounts to a gross monthly salary (<i>Bruttogehalt</i>) of at least EUR 4629.74 (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -364,12 +374,22 @@ This DC  will develop new technologies which can uncover causes of drift and des
     HRI Europe (D), Dr. M. Olhofer M30-M33, 4M, transfer of technologies to smart energy management. 
 </p>
 
-    <h3>Specific Requirements for the Project</h3>
-    <p>MSc or equivalent in ...</p>
+    
+<h3>Specific Requirements for the Project</h3>  
+    <p>
+      <ul>
+      <li> Excellent programming skills, including Python </li>
+      <li>  Knowledge of machine learning </li>
+      <li>  Experience in deep learning   </li>
+      <li> Advanced skills in mathematical modeling </li>
+      </ul>
+   </p> 
+<p> This fellowship requires admission to the 
+Doctoral studies of Intelligent Systems at the  <a href="https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/forschung/forschungszentren/citec/">CITEC</a> graduate school at the University of Bielefeld.     </p>
 
     <h3>Salary</h3>
-    <p>XXXX €/year including social security and mobility allowance.</p>
-
+    <p>
+Remuneration is based on pay scale 13 of the collective agreement for the public sector in the federal states (TV-L), which currently amounts to a gross monthly salary (<i>Bruttogehalt</i>) of at least EUR 4629.74 (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
         <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
