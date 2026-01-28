@@ -150,7 +150,7 @@ Doctoral studies of Intelligent Systems at the  <a href="https://www.uni-bielefe
 
     <h3>Salary</h3>
     <p>
-Remuneration is based on pay scale 13 of the collective agreement for the public sector in the federal states (TV-L), which currently amounts to a gross monthly salary (<i>Bruttogehalt</i>) of at least EUR 4629.74 (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+Remuneration is based on pay scale 13 of the collective agreement for the public sector in the federal states (TV-L), which currently amounts to a gross monthly salary <i>(Bruttogehalt)</i> of at least EUR 4629.74 (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -193,7 +193,7 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
     <p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (<a href="https://collegedoctoral-cvl.fr/as/ed/page.pl?site=CDCVL&page=ed551">MIPTIS</a>) at the University of Orléans. </p>
 
     <h3>Salary</h3>
-    <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>39,465€ per year as gross salary <i>(salaire brut)</i>  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -240,7 +240,7 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
     
     
     <h3>Salary</h3>
-    <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>39,465€ per year as gross salary <i>(salaire brut)</i>  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
  
     
@@ -389,7 +389,7 @@ Doctoral studies of Intelligent Systems at the  <a href="https://www.uni-bielefe
 
     <h3>Salary</h3>
     <p>
-Remuneration is based on pay scale 13 of the collective agreement for the public sector in the federal states (TV-L), which currently amounts to a gross monthly salary (<i>Bruttogehalt</i>) of at least EUR 4629.74 (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+Remuneration is based on pay scale 13 of the collective agreement for the public sector in the federal states (TV-L), which currently amounts to a gross monthly salary <i>(Bruttogehalt)</i> of at least EUR 4629.74 (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
         <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -600,7 +600,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
 <p> This fellowship requires admission to the PhD program at the Doctoral School Mathematics, Computer Science, Theoretical Physics, and Systems Engineering (<a href="https://collegedoctoral-cvl.fr/as/ed/page.pl?site=CDCVL&page=ed551">MIPTIS</a>) at the University of Orléans. </p>
 
     <h3>Salary</h3>
-    <p>39,465€ per year as gross salary (<i>salaire brut</i>)  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+    <p>39,465€ per year as gross salary <i>(salaire brut)</i>  (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
  
   
@@ -726,7 +726,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     </p>
 <h3> Salary</h3>
     <p> 
-      The gross salary (<i>Bruttogehalt</i>) is at least 4,629.74€  per month or 55,556.88€ per annum (includes social security contributions and mobility allowance), with an increase based on experience. Additional family allowance is provided if applicable.
+      The gross salary <i>(Bruttogehalt)</i> is at least 4,629.74€  per month or 55,556.88€ per annum (includes social security contributions and mobility allowance), with an increase based on experience. Additional family allowance is provided if applicable.
     </p>
 
     <div class="action-buttons">
@@ -774,7 +774,7 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
 <h3> Salary</h3>
     <p>
-     The gross salary (<i>Bruttogehalt</i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+     The gross salary <i>(Bruttogehalt)</i> at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
@@ -825,7 +825,7 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
 <h3> Salary</h3>
     <p>
-     The gross salary (<i>Bruttogehalt</i>) at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
+     The gross salary <i>(Bruttogehalt)</i> at TUG is 3,776.10 € (14 times a year) (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.</p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
