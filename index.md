@@ -16,12 +16,9 @@ permalink: /
     </a>
   </p>
   <div class="hero-actions">
-    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">
-      View doctoral projects (DC1–DC15)
-    </a>
-    <a href="{{ '/project/' | relative_url }}" class="button-secondary">
-      Learn more about the project
-    </a>
+    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">Apply for DC positions</a>
+    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button-button">View doctoral projects (DC1–DC15)</a>
+    <a href="{{ '/project/' | relative_url }}" class="button-secondary">Learn more about the project</a>
   </div>
 </section>
 
