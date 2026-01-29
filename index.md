@@ -20,7 +20,7 @@ permalink: /
     <a href="{{ '/project/' | relative_url }}" class="button-secondary">Learn more about the project</a>
   </div>
     <div class="hero-actions">
-    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">Apply for Doctoral Candidate positions</a>
+    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">Apply for DC positions</a>
   </div>
 
 </section>
@@ -42,7 +42,7 @@ permalink: /
   <p style="margin-bottom: 0.5rem;"><strong>Position starting date:</strong> September 2026</p>
 <!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.95rem; color: var(--text-muted);">More details about the application and recruitment process are given in Open Positions tab.</p> -->
   <div style="margin-top: 1rem;">
-    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">Apply for Doctoral Candidate positions</a>
+    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">Apply for DC positions</a>
   </div>
 </section>
 
