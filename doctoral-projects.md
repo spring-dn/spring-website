@@ -559,7 +559,9 @@ Fully and partly autonomous vehicles require state estimation and motion predict
     <a href="https://uol.de/en/oltech">OLTECH</a>  at the University of Oldenburg. 
     </p>
 <h3>Salary</h3>
-    <p> The gross salary (Bruttogehalt) is at least 3,908€ per month or 46,899€ per annum (includes social security contributions and mobility allowance), with an increase based on experience. Additional family allowance is provided if applicable.  </p>
+    <p> 
+      The gross salary (Bruttogehalt) is approx 3,908€ per month or 46,896€ per annum (includes social security contributions and mobility allowance). The exact number depends on the personal situation of the candidate, e.g family allowance is provided if applicable.
+    </p>
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
