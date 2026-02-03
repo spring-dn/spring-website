@@ -18,21 +18,13 @@ permalink: /people/
 These are the SPRING beneficiaries:
 
 - **PRISME Research Center, Université d’Orléans (France)**, Prof. Nacim Ramdani - Project Coordinator
-
 - **Department of Computing Science, Carl von Ossietzky Universität Oldenburg (Germany)**, Prof. Martin Fränzle & Prof. Sebastian Lehnoff 
-
 - **Center for Cognitive Interaction Technology, Universität Bielefeld (Germany)**, Prof. Barbara Hammer 
-
 - **Department of Informatics, University of Oslo (Norway)**, Prof. Peter Csaba Ölveczky
-
 - **Institute for Information Processing and Communication, Graz University of Technology (Austria)**, Dr. Bettina Könighofer
-
 - **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**, Dr. Mahtaios Panteli & Dr. Demetris Eliades 
-  
 - **SingularLogic S.A. (Greece)**, Dr Stamatia Rizou
-
 - **Eight Bells Ltd (Cyprus)**, Dr. Charalampos Skianis
-
 - **Humatects GmbH (Germany)**, Dr. Andreas Lüdtke  
 
 ---
