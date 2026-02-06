@@ -470,6 +470,7 @@ This DC  will go beyond state of the art by developing an innovative platform wi
 </p>
 <h3>Salary</h3>
     <p>
+The gross  (Brutto) annual salary (including living and mobility allowances) will be 42,291€.    Additional family allowance is provided if applicable.
     </p>
 
     <div class="action-buttons">
@@ -514,7 +515,7 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
 </p>
 <h3>Salary</h3>
     <p>
-    
+    The gross  (Brutto) annual salary (including living and mobility allowances) will be 42,291€.    Additional family allowance is provided if applicable.
     </p>
 
     <div class="action-buttons">
