@@ -21,7 +21,8 @@ permalink: /doctoral-projects/
 <h3 style="margin-top: 0; color: var(--eu-blue);">Eligibility Criteria for applicants</h3>
 <p>
 We are looking for talented and highly motivated early career researchers with an Honours BSc and/or MSc degree and experience in computer science, control systems or communication engineering, or related fields.
-
+</p>
+<p>
 Successful applicants will be offered a 36-month employee contract at one of the Beneficiaries (host organisation) where they will be registered as PhD students (Doctoral Candidates (DC)). DCs will receive a salary set out by the Horizon Europe Marie Skłodowska-Curie Actions (MSCA) regulations and national salary agreements. The salary includes living and mobility allowances and, if appropriate, a family allowance.
 </p>
 <p>
