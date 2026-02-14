@@ -22,7 +22,7 @@ These are the SPRING beneficiaries:
 - **Center for Cognitive Interaction Technology, Universität Bielefeld (Germany)**, Prof. Barbara Hammer 
 - **Department of Informatics, University of Oslo (Norway)**, Prof. Peter Csaba Ölveczky
 - **Institute for Information Processing and Communication, Graz University of Technology (Austria)**, Dr. Bettina Könighofer
-- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**, Dr. Mahtaios Panteli & Dr. Demetris Eliades 
+- **KIOS Research and Innovation Center of Excellence, University of Cyprus (Cyprus)**, Dr. Mathaios Panteli & Dr. Demetrios Eliades 
 - **SingularLogic S.A. (Greece)**, Dr Stamatia Rizou
 - **Eight Bells Ltd (Cyprus)**, Dr. Charalampos Skianis
 - **Humatects GmbH (Germany)**, Dr. Andreas Lüdtke  
