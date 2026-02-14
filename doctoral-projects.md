@@ -658,9 +658,7 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
     </p>
 <h3>Salary</h3>
     <p>
-            <!--
-      XXXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable.
-    -->      
+    Gross salary is 34,151 €/year (includes social security contributions). An additional mobility allowance will be provided. Family allowance is provided, if applicable.
     </p>
 
     <div class="action-buttons">
@@ -700,9 +698,7 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     The fellowship requires admission to the PhD program  at the University of Cyprus.
     </p>
 <h3>Salary</h3>
-    <p>
-      <!-- XXX €/year (includes social security contributions and mobility allowance). Additional family allowance is provided if applicable. -->
-    </p>
+    Gross salary is 34,151 €/year (includes social security contributions). An additional mobility allowance will be provided. Family allowance is provided, if applicable.
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
