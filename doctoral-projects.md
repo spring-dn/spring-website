@@ -655,6 +655,7 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
 
     <h3>Specific Requirements for the Project</h3>
     <p>
+     The fellowship requires admission to the PhD program  at the University of Cyprus.
     </p>
 <h3>Salary</h3>
     <p>
