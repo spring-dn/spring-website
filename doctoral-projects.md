@@ -404,7 +404,7 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
   <summary>DC6 – Explaining agent decisions in a Lifelong Machine Learning framework</summary>
   <div class="project-details">
     <p><strong>Organisation/Institute:</strong> Eight Bells Ltd (8BEL) Cyprus <a href="https://www.8bellsresearch.com/">(www.8bellsresearch.com)</a></p>
-    <p><strong>Supervisor:</strong> Dr. Emmanouil Kafetzakis and Dr. Demetris Eliades (UCY)</p>
+    <p><strong>Supervisor:</strong> Dr. Emmanouil Kafetzakis and Dr. Demetrios Eliades (UCY)</p>
     <p><strong>Contacts:</strong> <a href="mailto:mkafetz@8bellsresearch.com">mkafetz@8bellsresearch.com</a>;
        <a href="mailto:eliades.demetrios@ucy.ac.cy">eliades.demetrios@ucy.ac.cy</a>
     </p>
@@ -626,7 +626,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
   <summary>DC11 – Distributed multi-CPS resilience response principles</summary>
   <div class="project-details">
     <p><strong>Organisation/Institute:</strong> University of Cyprus (UCY) <a href="https://www.ucy.ac.cy/?lang=en">(www.ucy.ac.cy)</a></p>
-    <p><strong>Supervisor:</strong> Dr. Mahtaios Panteli and Dr. Demetris Eliades </p>
+    <p><strong>Supervisor:</strong> Dr. Mathaios Panteli and Dr. Demetrios Eliades </p>
     <p><strong>Contacts:</strong> <a href="mailto:panteli.mathaios@ucy.ac.cy">panteli.mathaios@ucy.ac.cy</a>; 
       <a href="mailto:eliades.demetrios@ucy.ac.cy">eliades.demetrios@ucy.ac.cy</a>
     </p>
@@ -672,7 +672,7 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
   <summary>DC12 – A Cyber-Physical Agent-Based Digital Twin Architecture for Resilient Critical Infrastructure Services</summary>
   <div class="project-details">
     <p><strong>Organisation/Institute:</strong> University of Cyprus (UCY) <a href="https://www.ucy.ac.cy/?lang=en">(www.ucy.ac.cy)</a></p>
-    <p><strong>Supervisor:</strong> Dr. Mahtaios Panteli and Dr. Demetris Eliades </p>
+    <p><strong>Supervisor:</strong> Dr. Mathaios Panteli and Dr. Demetrios Eliades </p>
     <p><strong>Contacts:</strong> <a href="mailto:panteli.mathaios@ucy.ac.cy">panteli.mathaios@ucy.ac.cy</a>; 
       <a href="mailto:eliades.demetrios@ucy.ac.cy">eliades.demetrios@ucy.ac.cy</a>
     </p>
