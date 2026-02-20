@@ -134,14 +134,14 @@ This DC will transfer concepts of physics-informed learning,  to achieve realist
     </p>
 
 <p><strong>Related bibliography</strong><br />
-J. Sande-Rios, J. Canal-Sanchez, C. Manzano-Hernandez and S. Pastrana, "Threat Analysis and Adversarial Model for Smart Grids," in 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Vienna, Austria, 2024 pp. 130-145. </br>
-Anirban Chakraborty, Manaar Alam, Vishal Dey, Anupam Chattopadhyay, and Debdeep Mukhopadhyay. 2021. A survey on adversarial attacks and defences. CAAI Transactions on Intelligence Technology 6, 1 (March 2021), 25–45. https://doi.org/10.1049/cit2.12028  </br>
-Jan Philip Göpfert, André Artelt, Heiko Wersing, Barbara Hammer: Adversarial Attacks Hidden in Plain Sight. IDA 2020: 235-247  </br>
-Roman Schotten, et al., Data for critical infrastructure network modelling of natural hazard impacts: Needs and influence on model characteristics, Resilient Cities and Structures, Volume 3, Issue 1, 2024, Pages 55-65, ISSN 2772-7416, https://doi.org/10.1016/j.rcns.2024.01.002.  </br>
-Giovanni Apruzzese, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni. 2022. Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems. Digital Threats 3, 3, Article 31 (September 2022), 19 pages. https://doi.org/10.1145/3469659 </br>
-I.Ashraf, J. Strotherm, L. Hermes, B. Hammer: Physics-Informed Graph Neural Networks for Water Distribution Systems. AAAI 2024: 21905-21913  </br>
-Thorben Markmann, Michiel Straat, Barbara Hammer: Koopman-Based Surrogate Modelling of Turbulent Rayleigh-Bénard Convection. IJCNN 2024: 1-8  </br>
-Philip Kenneweg, Dominik Stallmann, Barbara Hammer: Novel transfer learning schemes based on Siamese networks and synthetic data. Neural Comput. Appl. 35(11): 8423-8436 (2023)  </br>
+J. Sande-Rios, J. Canal-Sanchez, C. Manzano-Hernandez and S. Pastrana, "Threat Analysis and Adversarial Model for Smart Grids," in 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Vienna, Austria, 2024 pp. 130-145. <br>
+Anirban Chakraborty, Manaar Alam, Vishal Dey, Anupam Chattopadhyay, and Debdeep Mukhopadhyay. 2021. A survey on adversarial attacks and defences. CAAI Transactions on Intelligence Technology 6, 1 (March 2021), 25–45. https://doi.org/10.1049/cit2.12028  <br>
+Jan Philip Göpfert, André Artelt, Heiko Wersing, Barbara Hammer: Adversarial Attacks Hidden in Plain Sight. IDA 2020: 235-247  <br>
+Roman Schotten, et al., Data for critical infrastructure network modelling of natural hazard impacts: Needs and influence on model characteristics, Resilient Cities and Structures, Volume 3, Issue 1, 2024, Pages 55-65, ISSN 2772-7416, https://doi.org/10.1016/j.rcns.2024.01.002.  <br>
+Giovanni Apruzzese, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni. 2022. Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems. Digital Threats 3, 3, Article 31 (September 2022), 19 pages. https://doi.org/10.1145/3469659 <br>
+I.Ashraf, J. Strotherm, L. Hermes, B. Hammer: Physics-Informed Graph Neural Networks for Water Distribution Systems. AAAI 2024: 21905-21913  <br>
+Thorben Markmann, Michiel Straat, Barbara Hammer: Koopman-Based Surrogate Modelling of Turbulent Rayleigh-Bénard Convection. IJCNN 2024: 1-8  <br>
+Philip Kenneweg, Dominik Stallmann, Barbara Hammer: Novel transfer learning schemes based on Siamese networks and synthetic data. Neural Comput. Appl. 35(11): 8423-8436 (2023)  <br>
 Paul Stahlhofen, A. Artelt, L. Hermes, B. Hammer: Adversarial Attacks on Leakage Detectors in Water Distribution Networks. IWANN (2) 2023: 451-463
 </p>
 
