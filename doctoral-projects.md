@@ -110,6 +110,8 @@ energy and/or transport infrastructures.
 
 <div class="projects-list">
 
+<!-- DC1 -->
+
 <details>
   <summary>DC1 – Physics-informed adversarial robustness of network models</summary>
   <div class="project-details">
@@ -130,6 +132,18 @@ This DC will transfer concepts of physics-informed learning,  to achieve realist
 (3) Realization of the algorithms as open-source toolkit. <br>
 (4) Transfer of the technologies to the domains of water distribution systems and transportation.
     </p>
+
+<p><strong>Related bibliography</strong><br />
+J. Sande-Rios, J. Canal-Sanchez, C. Manzano-Hernandez and S. Pastrana, "Threat Analysis and Adversarial Model for Smart Grids," in 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Vienna, Austria, 2024 pp. 130-145. </br>
+Anirban Chakraborty, Manaar Alam, Vishal Dey, Anupam Chattopadhyay, and Debdeep Mukhopadhyay. 2021. A survey on adversarial attacks and defences. CAAI Transactions on Intelligence Technology 6, 1 (March 2021), 25–45. https://doi.org/10.1049/cit2.12028  </br>
+Jan Philip Göpfert, André Artelt, Heiko Wersing, Barbara Hammer: Adversarial Attacks Hidden in Plain Sight. IDA 2020: 235-247  </br>
+Roman Schotten, et al., Data for critical infrastructure network modelling of natural hazard impacts: Needs and influence on model characteristics, Resilient Cities and Structures, Volume 3, Issue 1, 2024, Pages 55-65, ISSN 2772-7416, https://doi.org/10.1016/j.rcns.2024.01.002.  </br>
+Giovanni Apruzzese, Mauro Andreolini, Luca Ferretti, Mirco Marchetti, and Michele Colajanni. 2022. Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems. Digital Threats 3, 3, Article 31 (September 2022), 19 pages. https://doi.org/10.1145/3469659 </br>
+I.Ashraf, J. Strotherm, L. Hermes, B. Hammer: Physics-Informed Graph Neural Networks for Water Distribution Systems. AAAI 2024: 21905-21913  </br>
+Thorben Markmann, Michiel Straat, Barbara Hammer: Koopman-Based Surrogate Modelling of Turbulent Rayleigh-Bénard Convection. IJCNN 2024: 1-8  </br>
+Philip Kenneweg, Dominik Stallmann, Barbara Hammer: Novel transfer learning schemes based on Siamese networks and synthetic data. Neural Comput. Appl. 35(11): 8423-8436 (2023)  </br>
+Paul Stahlhofen, A. Artelt, L. Hermes, B. Hammer: Adversarial Attacks on Leakage Detectors in Water Distribution Networks. IWANN (2) 2023: 451-463
+</p>
 
     <h3>Planned Secondments</h3>
     <p>
@@ -161,6 +175,10 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
     </div>
 </details>
 
+
+<!-- DC2 -->
+
+
 <details>
   <summary>DC2 – Increasing self-adaptability through generalizations of diffusive dynamics in SoCPSs</summary>
   <div class="project-details">
@@ -183,6 +201,7 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
  ii) A theory supporting resilient CPS inspired by diffusive dynamics; <br />
  iii) A report on the proof-of-concept implementation of the proposed theory in supply networks.
     </p>
+
 <p><strong>Related bibliography</strong><br />
 Petr Vorobev, Konstantin S. Turitsyn: Decentralized stability rules for microgrids. ACC 2019: 2596-2601.<br />
 P.O. Lamare, A. Girard, C. Prieur: Lyapunov techniques for stabilization of switched linear systems of conservation laws. In CDC (2013): 448-453.<br />
@@ -213,6 +232,10 @@ M. S. Branicky: Multiple Lyapunov functions and other analysis tools for switche
   </div>
 </details>
   
+
+
+<!-- DC3 -->
+
   
 <details>
   <summary>DC3 – Secure distributed set-based state estimation in networked switched systems</summary>
@@ -272,6 +295,11 @@ Q.P. Ha, et al., Partial state estimation for linear systems with output and inp
   </div>
 </details>
   
+
+
+<!-- DC4 -->
+
+
   
 <details>
   <summary>DC4 – Formalizing resilience and engineering provably resilient-by-design SoCPSs</summary>
@@ -316,6 +344,14 @@ a (correct-by-construction) distributed system from its formal
 specification.  
 </p>
 
+<p><strong>Related bibliography</strong><br />
+K. Anto, et al, "A Novel Framework for the Design of Resilient CSP Using Control Theory and Formal Methods," IEEE Access (11) 2023: 73556-73567. <br>
+B. Cassottana, et al., Resilience analysis of cyber-physical systems: A review of models and methods, Risk Analysis 43 (2023)
+R. S. Lois and D. G. Cole, "Designing Secure and Resilient Cyber-Physical Systems Using Formal Models," 2022 Resilience Week, NH, MD, USA, 2022.<br>
+S. Colabianchi, el al., "Discussing resilience in the context of cyber physical systems," Computers & Industrial Engineering 160 (2021): 107534 <br>
+S. Liu, et al, Bridging the semantic gap between qualitative and quantitative models of distributed systems. Proc. ACM Program. Lang. 2022 (6): 315-344.
+</p>
+    
     <h3>Planned Secondments</h3>
     <p> UOL (DE) Prof. M. Fränzle, M9-M14, 6M, Construction of robust correctness certificates. <br> 
     SIEMENS (DE), Dr. Markus A. Wischy, M15-M17, 3M, Understand requirements and domain specific constraints of resilient smart transportation. <br> 
@@ -367,6 +403,10 @@ depending on competences and experience. From the salary 2% is deducted in statu
   </div>
 </details>
 
+
+<!-- DC5 -->
+
+
 <details>
   <summary>DC5 – Explaining complex drift phenomena in networked data</summary>
   <div class="project-details">
@@ -386,6 +426,16 @@ This DC  will develop new technologies which can uncover causes of drift and des
    (2) Specific algorithm realizations which enable to efficiently compute feature attributions which can account for interactions in networked data. <br>
    (3) Realization of the algorithms as open-source toolkit. (4) Transfer of the technologies to the domains of water distribution systems and smart energy management.
  </p>
+
+<p><strong>Related bibliography</strong><br />
+  Pinto, A., et al. Enhancing Critical Infrastructure Security: Unsupervised Learning Approaches for Anomaly Detection. Int J Comp Intell Syst 17, 236 (2024). <br>
+Togbe MU, et al. Anomalies Detection Using Isolation in Concept-Drifting Data Streams . Computers. 2021; 10(1):13. <br>
+V. Vaquet, et al., Localizing of Anomalies in Critical Infrastructure using Model-Based Drift Explanations," 2024 IJCNN, Yokohama, Japan, 2024, pp. 1-8, <br>
+L Quakernack, et al., A Sensor Fault Detection and Imputation Framework for Electrical Distribution Grids, 2023 IEEE PES ISGT EUROPE, 1-5, 2023. <br>
+Nadia Burkart and Marco F. Huber. 2021. A Survey on the Explainability of Supervised Machine Learning. J. Artif. Int. Res. 70 (May 2021), 245–317. <br>
+One or two things we know about concept drift—a survey on monitoring in evolving environments. Part A: detecting concept drift, F Hinder, V Vaquet, B Hammer, Frontiers in Artificial Intelligence 7, 1330257, 2024 <br>
+H. Yuan, H. Yu, S. Gui and S. Ji, "Explainability in Graph Neural Networks: A Taxonomic Survey" in IEEE TPAMI 45(5): 5782-5799, 2023.
+</p>
 
     <h3>Planned Secondments</h3>
     <p>UOR (FR), Prof. N. Ramdani M12-M15, 4M, devise efficient algorithms to avoid combinatorial explosion when rigorously addressing feature interactions; <br>
@@ -417,6 +467,12 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
   </div>
 </details>
 
+
+
+<!-- DC6 -->
+
+
+
 <details>
   <summary>DC6 – Explaining agent decisions in a Lifelong Machine Learning framework</summary>
   <div class="project-details">
@@ -436,6 +492,18 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
     <p><strong>Expected Results</strong><br>
     1) a Lifelong Learning (LL) framework designed, developed and implemented as a set of tools with accompanying interfaces: The LL framework will include: i) Lifelong Graph learning; ii) Lifelong Active Learning:; iii) Compression-aware multimodal LL; iv) Lifelong rule-based learning. 2) Automatic explanation algorithms for the LL framework: a set of techniques integrated with the LL learning tools developed to provide explanations for the agents’ decisions. 3) a report summarizing the key insights and findings of the validation of the proposed approach in the framework of smart supplies in water and energy verticals.
 </p>
+<p><strong>Related bibliography</strong><br />
+N. Komninos, et al., "Survey in Smart Grid and Smart Home Security: Issues, Challenges and Countermeasures," IEEE Comm. Surveys & Tutorials, 2014(16). <br>
+Chen, Z. and Liu, B., 2022. Lifelong machine learning. Springer Nature. <br>
+Gunning, David, et al. XAI—Explainable artificial intelligence. Science Robotics, 2019, 4.37. <br>
+Lipton, Z. C. The Mythos of Model Interpretability: In machine learning, the concept of interpretability is both important and slippery. Queue 16.3(2018): 31.<br>
+Marcinkevičs, Ričards, and Julia E. Vogt. "Interpretability and explainability: A machine learning zoo mini-tour." preprint arXiv:2012.01805 (2020).<br>
+Gilpin, L. H., et al. "Explaining explanations: An overview of interpretability of machine learning." 2018 IEEE Int Conf. DSAA. 2018. <br>
+Carvalho, D. V., E. M. Pereira, and J. S. Cardoso. "Machine learning interpretability: A survey on methods and metrics." Electronics 8.8 (2019): 832.<br>
+Ebrahimi, Sayna, et al. "Remembering for the right reasons: Explanations reduce catastrophic forgetting." arXiv preprint arXiv:2010.01528 (2020).<br>
+Sado, Fatai, et al. "Explainable Goal-Driven Agents and Robots--A Comprehensive Review and New Framework." arXiv e-prints (2020): arXiv-2004.<br>
+Ciravegna, Gabriele, et al. "Human-Driven FOL Explanations of Deep Learning." IJCAI. 2020.<br>
+</p>
 
     <h3>Planned Secondments</h3>
     <p>Planned secondment(s): <br> TUG (AT), Dr. B. Könighofer M9-M14, 6M, guidance on literature review of ML concepts; <br> SPH (EL) Dr. G. Gardikis, M25-M30, 6M Understand requirements and constraints of ML-based decision-making in CI focusing on water-energy systems.
@@ -453,6 +521,12 @@ This DC will study integrating XAI into a LML framework for Systems of CPS, focu
     </div>
   </div>
 </details>
+
+
+
+<!-- DC7 -->
+
+
 
 <details>
   <summary>DC7 – Correlation modelling and analysis for distributed smart supplies</summary>
@@ -476,7 +550,13 @@ This DC  will go beyond state of the art by developing an innovative platform wi
     iii) A correlation graph/topology depicting the pairwise relationships among the energy systems elements.
 </p>
 
-    <h3>Planned Secondments</h3>
+   <p><strong>Related bibliography</strong><br />
+     R. M. Góes, et al., "Stealthy deception attacks for cyber-physical systems," Proc. IEEE CDC, 2017, pp. 4224-4230. <br>
+Chen, Y., et al. .: ‘Probabilistic load flow analysis considering dependencies among input random variables’. 2011 IEEE PES GenMeeting, Jul 2011, pp. 1–8 <br>
+D. Cai, et al. "Probabilistic load flow computation using Copula and Latin hypercube sampling." IET Generation, Transm. & Distrib. 8.9 (2014): 1539. <br>
+W. Lu, et al.: “Using Fully Homomorphic Encryption for Statistical Analysis of Categorical, Ordinal and Numerical Data”. IACR Cryptol. Arch. 2016: 1163. <br>
+</p>
+ <h3>Planned Secondments</h3>
     <p>UOL (DE), Prof. S. Lehnhoff, M9-M11, 3M, guidance on literature review on correlation modelling and analysis in energy systems; <br>
   ScienceTokyo (JP), Prof. T. Ishizaki, M18-M20, 3M, data-driven techniques for smart energy systems. <br> 
   UOL (DE), Prof. S. Lehnhoff, M24-M29, 3M, development and test of the correlation modelling and analysis on the energy systems of the SESA lab. 
@@ -499,6 +579,11 @@ The gross  (Brutto) annual salary (including living and mobility allowances) wil
   </div>
 </details>
 
+
+<!-- DC8 -->
+
+
+
 <details>
   <summary>DC8 – Multi-facetted trust state assessment for distributed smart supplies</summary>
   <div class="project-details">
@@ -519,6 +604,14 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
   i) A systematic process chain for calculating a holistic state assessment in modern CPS; <br>
   ii) A multi-facetted trust state assessment supporting trace-back of anomalies; <br> 
   iii) A report on the test validation of the proposed approach in smart supply networks.
+</p>
+<p><strong>Related bibliography</strong><br />
+A. S. Bretas, et al. : “Cyber-Physical Power Systems State Estimation”, Elsevier, 2021, Pages i-ii, ISBN 9780323900331. <br>
+Brand, M., et al. Trust assessment of power system states. Energy Inform 3, 18 (2020). DOI: 10.1186/s42162-020-00121-9 <br>
+D. I. Urbina, et al. “Limiting the Impact of Stealthy Attacks on Industrial Control Systems”. 2016 ACM SIGSAC pp. 1092–1105. <br>
+M. Brand, et al. "Trust in Power System State Variables based on Trust in Measurements," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. <br>
+R. Cayre, et al., WazaBee: attacking Zigbee networks by diverting Bluetooth Low Energy chips, IEEE/IFIP (DSN 2021), Jun 2021, Taiwan. <br>
+Romain Cayre, et al., OASIS: An Intrusion Detection System Embedded in Bluetooth Low Energy Controllers, ACM ASIACCS, 2024. <br>
 </p>
 
     <h3>Planned Secondments</h3>
@@ -544,6 +637,10 @@ This DC  will go beyond the state of the art by providing the first multi-facet 
   </div>
 </details>
 
+
+<!-- DC9 -->
+
+
 <details>
   <summary>DC9 – Anomaly detection in multi-agent traffic scenarios</summary>
   <div class="project-details">
@@ -566,6 +663,14 @@ Fully and partly autonomous vehicles require state estimation and motion predict
  ii) Proof of concept implementation of the approach in simulated multi-agent traffic scenarios incl. critical and malicious driving behavior. <br> 
  iii) Validation and benchmarking of the overall performance for long-term prediction based on open-source datasets.
     </p>
+<p><strong>Related bibliography</strong><br />
+  Lefèvre, S., et al. (2014). “A survey on motion prediction and risk assessment for intelligent vehicles”. ROBOMECH Journal, 1, 1, pp. 1-14.<br>
+Jain, A., et al. (2015) Car that Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models. IEEE ICCV, p.3182-3190<br>
+Shi, S., et al. (2024) MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying. IEEE TPAMI, pp. 1-16.<br>
+Sun, J., et al. (2024). RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once. ArXiv: 2409.11696, pp. 1-8. <br>
+Yusuf, S. A., Khan, A., Souissi, R. (2024). “Vehicle-to-everything (V2X) in the autonomous vehicles domain – A technical review of communication, sensor, and AI technologies for road user safety”. Transportation Research Interdisciplinary Perspectives, 23, pp. 1-23.<br>
+Huang, et al. (2024). “V2X Cooperative Perception for Autonomous Driving: Recent Advantages and Challenges”. arXiv:2310.03525, pp.1-37. <br>
+</p>
 
     <h3>Planned Secondments</h3>
     <p>HRI (DE), Dr. M. Olhofer, M9-M12, 4M, Understand requirements and domain specific constraints in resilient smart transportation, and development of realistic and relevant safety-critical use cases. <br> 
@@ -589,6 +694,11 @@ Fully and partly autonomous vehicles require state estimation and motion predict
       </div>
   </div>
 </details>
+
+
+<!-- DC10 -->
+
+
 
 <details>
   <summary>DC10 – Stealthy attacks diagnosis in networked switched systems</summary>
@@ -648,6 +758,10 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
    </div> 
 </details>
 
+
+<!-- DC11 -->
+
+
 <details>
   <summary>DC11 – Distributed multi-CPS resilience response principles</summary>
   <div class="project-details">
@@ -673,6 +787,16 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
    (2) detailed models capturing interactions and dependencies among cyber-physical infrastructures, aligned with SPRING project objectives; <br> 
    (3) mechanisms for coordinated CPS emergency response; and (4) practical benchmarks and toolkits for assessing CPS resilience, ensuring real-world applicability.
  </p>
+<p><strong>Related bibliography</strong><br />
+  Yang, Y., et al. 2023. Risk-averse restoration of coupled power and water systems with small pumped-hydro storage and stochastic rooftop renewables. Applied Energy, 339, p.120953. <br>
+Robert, et al.., 2008. Modelling interdependencies among critical infrastructures. International Journal of Critical Infrastructures, 4(4), pp.392-408<br>
+Chiaradonna, et al., 2008. Evaluation of critical infrastructures: Challenges and viable approaches. Architecting Dependable Systems V, pp.52-77.<br>
+Gonzalez, J.M., Tomlinson, et al. «Designing diversified renewable energy systems to balance multisector performance». Nat Sustain 6, 415–427 (2023).<br>
+National Infrastructure Commission, «Anticipate, React, Recover: Resilient infrastructure systems», UK, May 2020<br>
+Nicolaou, N., et al., 2018, April. Reducing vulnerability to cyber-physical attacks in water distribution networks. In IEEE 2018 CySWater pp. 16-19.<br>
+R. Hanna, et al., Designing resilient decentralized energy systems: The importance of modeling extreme events …, iScience 25(1) 2022<br>
+Y. Zhou, M. Panteli, et al., «System-level assessment of reliability and resilience provision from microgrids», Applied Energy, Volume 230, 2018<br>
+</p>
 
     <h3>Planned Secondments</h3>
     <p>UOR (FR), Prof. N. Ramdani M9-M14, 6M, Guidance on literature review of modelling and analysis of interconnected cyber-physical critical infrastructures; <br> 
@@ -695,6 +819,10 @@ This involves (i) developing a simulation framework for modeling water-energy-fo
   </div>
 </details>
 
+
+<!-- DC12 -->
+
+
 <details>
   <summary>DC12 – A Cyber-Physical Agent-Based Digital Twin Architecture for Resilient Critical Infrastructure Services</summary>
   <div class="project-details">
@@ -715,6 +843,14 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     <p><strong>Expected Results</strong><br>
     The expected outcomes are equally structured around five key results. (1) The SpringDT architecture; (2) The validated self-adaptive algorithm framework; (3) LLM integration; (4) The risk-aware incident response framework (5) The resilience agent library.  These contributions will be validated through real-world CI case studies, ensuring practical utility and effectiveness.
 </p>
+<p><strong>Related bibliography</strong><br />
+  Jones, D., et al., Characterising the Digital Twin: A systematic literature review. CIRP Jour. of Manufacturing Science and Technology, 2020 29, pp.36-52.<br>
+Semeraro, C., et al., Digital Twin paradigm: A systematic literature review. Computers in Industry, 2021, 130, p.103469.<br>
+Callcut, M., Cerceau Agliozzo, J.P., Varga, L. and McMillan, L., 2021. Digital twins in civil infrastructure systems. Sustainability, 13(20), p.11549.<br>
+Jin, A.S., et al. 2022. Resilience of cyber-physical systems: Role of AI, digital twins, and edge computing. IEEE Eng. Manag. Review, 50(2), pp.195-203.<br>
+Boschert, S. & Rosen, R., Digital Twin — The Simulation Aspect. Mechatronic futures, 2016, pp.59-74. <br>
+Madni, A.M., Madni, C.C. and Lucero, S.D., Leveraging digital twin technology in model-based systems engineering. Systems 2019, 7(1), p.7.
+</p>
 
     <h3>Planned Secondments</h3>
     <p> UOR (FR), Prof. N. Ramdani M9-M14, 6M, Guidance on literature review of modelling and analysis of interconnected cyber-physical critical infrastructures; <br> 
@@ -733,6 +869,10 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
       </div>
   </div>
 </details>
+
+
+<!-- DC13 -->
+
 
 <details>
   <summary>DC13 – Model-based testing and contract-based synthesis for resilience of networked CPS</summary>
@@ -756,6 +896,17 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
     iii) An automatic game-based synthesis procedure supporting resilient CPSs by flexible dynamic reconfiguration with behavioral guarantees; <br> 
     iv) A report summarizing the key insights and findings of the validation of the proposed approach in networked automotive systems.
 </p>
+<p><strong>Related bibliography</strong><br />
+A. Venzke, et al.: Learning Optimal Power Flow: Worst-Case Guarantees for Neural Networks. In Proc. IEEE SmartGridComm 2020.<br>
+J. de Ruiter and E. Poll, “Protocol state fuzzing of TLS implementations,” in Proceedings of the 24th USENIX Security Symposium, in USENIX. 2015. <br>
+A. Pferscher et al.: Stateful Black-Box Fuzzing of Bluetooth Devices Using Automata Learning, in NASA Formal Methods, LNCS 2022, pp. 373–392. <br>
+A. Benveniste, et al.: Contracts for System Design. Foundations and Trends in Electronic Design Automation. 12(2-3): 124-400 (2018).<br>
+A. Eggers, N. Ramdani, N. S. Nedialkov, M. Fränzle: Improving the SAT modulo ODE approach to hybrid systems analysis by combining different enclosure methods. Software & Systems Modelling 14(1): 121-148 (2015)<br>
+M. Fränzle, Y. Gao, S. Gerwinn: Constraint-Solving Techniques for the Analysis of Stochastic Hybrid Systems. In Provably Correct Systems (2017): 9-38.<br>
+  L. Nahabedian, et al.: Dynamic Update of Discrete Event Controllers. IEEE Trans. Software Eng. 46(11): 1220-1240 (2020)
+</p>
+
+
 
     <h3>Planned Secondments</h3>
     <p>AVL (AT), S. Marksteiner, M12-M17, 6M, Understand automated system modelling, user requirements, domain specific constraints, and safety demands for networked automotive control systems. <br> 
@@ -779,6 +930,10 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
   </div>
 </details>
 
+
+<!-- DC14 -->
+
+
 <details>
   <summary>DC14 – Robust shielding mechanisms to guarantee safety & performance for safety-critical machine-learning systems</summary>
   <div class="project-details">
@@ -796,6 +951,12 @@ This IRP thesis aims to advance Digital Twin (DT) technology for enhancing the r
 
     <p><strong>Expected Results</strong><br>
     We will develop methods and tools to compute shields that: i) guarantee safety throughout the entire recovery phase of safety-critical machine learning systems, ii) are resilient to several classes of domain-specific faults, disturbances, and anomalies, and iii) ensure a basic level of performance during the recovery phase. The project will implement a highly scalable open-source tool for automatically computing such shields.
+</p>
+<p><strong>Related bibliography</strong><br />
+M. Alshiekh, et al.: Safe Reinforcement Learning via Shielding. Thirty-Second AAAI Conference on Artificial Intelligence, AAAI-18AAAI 2018 <br>
+F.C. Córdoba, et al.; Safety Shielding under Delayed Observation. Proc. ICAPS 2023, Ass. Advancement of Artificial Intelligence, 2023.<br>
+T. S. Badings, et al.: Robust Control for Dynamical Systems with Non-Gaussian Noise via Formal Abstractions. Jour. of Artificial Intelligence Res.76, 2023 <br>
+S. Carr, et al.: Safe Reinforcement Learning via Shielding under Partial Observability. AAAI 2023: 14748-14756.
 </p>
 
     <h3>Planned Secondments</h3>
@@ -826,6 +987,10 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
   </div>
 </details>
 
+
+<!-- DC15 -->
+
+
 <details>
   <summary>DC15 – Explaining Shielding Decisions</summary>
   <div class="project-details">
@@ -845,6 +1010,9 @@ And evaluate their understandability for safety-critical applications in smart t
 
     <p><strong>Expected Results</strong><br>
 The expected outcomes are: i) algorithms and ii) tools for computing explainable shields, and iii) a comprehensive report, including a user study, evaluating the explainability of the computed shields.
+</p>
+<p><strong>Related bibliography</strong><br />
+  P. Ashok, et al. "dtControl 2.0: Explainable strategy representation via decision tree learning steered by experts." TACAS Cham: Springer Publishing, 2021.
 </p>
 
     <h3>Planned Secondments</h3>
