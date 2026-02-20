@@ -174,6 +174,15 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
     The design of distributed critical infrastructures has extensively borrowed from traditional security mechanisms, thus reducing considerably the likelihood of synchronous intrusion at multiple independent points of the network. This fact renders it attractive to devise distributed control schemes that can absorb a small number of distributed synchronous intrusions. Diffusive dynamics-like behavior of the overall network making the functional impact of a small number of intrusions diffuse rapidly over a distributed system without developing significant consequences, provides a general scheme towards designing such self-adaptive networks of CPS with guarantee certificates. Diffusive dynamics notions are well-understood in physical systems subject to conservation laws and have already seen generalisations to settings of distributed control of energy grids by means of gain theorems. Likewise, their exploitation in switched and hybrid systems for Lyapunov-style stability arguments has also been explored. However, the application of such notions to massively distributed switched systems have been less studied and developed, even though they carry prospects for compositional and thus scalable reasoning. <br /> <br/>
  This DC  will develop a stability theory based on diffusive dynamics for massively distributed switched systems to make them self-adaptable, extending for a distributed setting the advance that has been achieved in local hybrid-state control. This DC will exploit the new theory to design self-adaptive supply networks, which seem ideal candidates as their physical parts come naturally equipped with conservation laws.
     </p>
+
+<p><strong>Related bibliography</strong><br />
+Petr Vorobev, Konstantin S. Turitsyn: Decentralized stability rules for microgrids. ACC 2019: 2596-2601.<br />
+P.O. Lamare, A. Girard, C. Prieur: Lyapunov techniques for stabilization of switched linear systems of conservation laws. In CDC (2013): 448-453.<br />
+W. Damm, A. Rakow: Component based design of hybrid systems: a case study on concurrency and coupling. In HSCC (2014): 145-150.<br />
+M. S. Branicky: Multiple Lyapunov functions and other analysis tools for switched and hybrid systems. IEEE Trans. Automatic Control. 1998 (43): 475-482.<br />
+</p>
+
+    
     <p><strong>Expected Results</strong><br>
  The expected results are: <br />
  i) A background analysis of diffusive dynamics principles that have the potential or are already applied in the design of distributed control systems; <br />
@@ -217,6 +226,14 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
     Secure estimators are algorithms that exploit a redundancy of sensors and actuators in the system to reconstruct the actual system's state despite integrity attacks on sensors or actuators, while knowing only an upper bound on the relative of number of manipulated sensors and actuators, and without knowing their identities. With distributed Critical Infrastructures (CIs), event-triggered frameworks reduce communication overhead without jeopardizing control performance, while mitigating denial-of-service attacks. The state-of-the-art secure estimator use a family of estimators to generate estimates corresponding to different subsets of sensors. Such an approach is NP-hard. Given an upper bound on the number of attacked sensors, and so-called sparse observability condition algorithms have been proposed using satisfiability checkers. To provide precise robust guarantees for state inclusion, which is a crucial feature to ensure safety in CI operation, secure set-based estimators have been introduced. These state-of-the-art approaches have been developed for linear systems in centralized settings; they do not consider the distributed nature of the CIs and the network induced imperfections like variable sampling periods and communication delays. Besides, works considering both integrity attacks on sensors and actuators as well as on the network availability (denial-of-service) are rare. Furthermore, current approaches do not scale with respect to number of sensors and actuators. <br><br>
  This DC  will advance state of the art by developing a scalable method that can reconstruct unmeasured state vectors in presence of cyber and physical attacks on sensors, actuators and the network. DC will extend our own set-based observer to event-triggered sampling for distributed switched systems in presence of multi-rate aperiodic sampling, and to partial state reconstruction  to ensure scalability.
     </p>
+<p><strong>Related bibliography</strong><br />
+T. Yang, et al., An Unknown Input Multiobserver Approach for Estimation and Control Under Adversarial Attacks, IEEE TCNS 2021, vol 8(1): 475–486.<br />
+R. Zhao, et al., Event-Triggered Control for Switched Systems With Denial-of-Service Attack, IEEE TAC 2022, vol. 67(8): 4077-4090.<br />
+V. S. Dolk, et al., Event-Triggered Control Systems Under Denial-of-Service Attacks, IEEE TCNS 2017 (14), pp. 93–105.<br />
+Y. Shoukry, P. Nuzzo, A. Puggelli, A.L. Sangiovanni-Vincentelli, S.A. Seshia, P. Tabuada, Secure state estimation for cyber-physical systems under sensor attacks: a satisfiability modulo theory approach, IEEE TAC 2017, vol. 62(10): 4917-4932.<br />
+D. Rabehi, et al., Secure interval observer for linear continuous-time systems with discrete measurements subject to attacks. Proc. IEEE SYSTOL 2019: 336.<br />
+Q.P. Ha, et al., Partial state estimation for linear systems with output and input time delays, ISA Trans. 53(2), 2014, p. 327-334.<br />
+</p>
 
     <p><strong>Expected Results</strong><br>
     The expected results are: <br />
@@ -586,6 +603,15 @@ Fully and partly autonomous vehicles require state estimation and motion predict
 <br /><br />
 This DC  will advance state of the art by combining enhanced moving target defense strategies with distributed set-based observers working with non-periodic sampling and delayed measurements, to build a strong and robust stealthy attack diagnosis solution for massively distributed control systems in smart grids and transport.
  </p>
+
+<p><strong>Related bibliography</strong><br />
+T. Yang, et al., An Unknown Input Multiobserver Approach for Estimation and Control Under Adversarial Attacks, IEEE TCNS 2021, vol 8(1): 475–486.<br />
+A. Kanellopoulos & K.G. Vamvoudakis, 'A Moving Target Defense Control Framework for Cyber-Physical Systems,' IEEE TAC 65(3): 1029-1043, 2020.<br />
+P.Griffioen, S. Weerakkody & B. Sinopoli, 'A Moving Target Defense for Securing Cyber-Physical Systems,' IEEE TAC 66(5): 2016-2031, 2021.<br />
+F. Xu, S. Olaru, M.M. Seron, Observer gain optimization for minimization of minimal robust positively invariant set and invariant set-based fault detection, Automatica, 2024 (160): 111413. <br />
+D. Rabehi, et al.: “Interval impulsive observer for linear systems with aperiodic discrete measurements,” IEEE TAC 66(11): 5407–5413, 2021. <br />
+R.L. Tagne Mogue, et al., An Interval Impulsive Observer for Multi-Sensors Linear Systems with Delayed Measurements, Proc. IEEE CDC 2024, Milano.
+</p>
 
     <p><strong>Expected Results</strong><br />
 i) A framework for anomaly detection and isolation will account for aperiodic and multi-periodic measurements
