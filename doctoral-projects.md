@@ -28,7 +28,9 @@ Successful applicants will be offered a 36-month employee contract at one of the
 <p>
 SPRING values gender balance and is committed to creating a diverse environment. All qualified applicants will receive equal opportunities and consideration for employment. 
 </p>
-Please note that all criteria below are mandatory:
+  <p> Applicants can be of any nationality. </p> 
+  
+Please note that <strong> all criteria below are mandatory</strong>:
 <ul>
     <li> <strong>Early Career Researchers:</strong> Applicants should, at the time of recruitment, 
       <!-- be in the first four years (full time equivalent research experience) of their research careers and -->
