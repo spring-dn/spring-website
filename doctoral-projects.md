@@ -103,7 +103,7 @@ The recruitment process consists of the following steps:
 </div>
 
 <p>
-Below  are the complete list and  the detailed descriptions of  the 15 SPRING Doctoral Candidate (DC) positions available. <br> Each DC focuses on a specific aspect of resilience in large-scale critical infrastructures and is hosted by one of the beneficiary institutions.
+<strong> Below  are the complete list and  the detailed descriptions of  the 15 SPRING Doctoral Candidate (DC) positions available. </strong><br> Each DC focuses on a specific aspect of resilience in large-scale critical infrastructures and is hosted by one of the beneficiary institutions.
 Each doctoral project combines methodological research with case studies and secondments in water,
 energy and/or transport infrastructures. 
   </p>
