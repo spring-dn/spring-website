@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Positions
+title: Open DC Positions / PhD positions
 permalink: /doctoral-projects/
 ---
 
