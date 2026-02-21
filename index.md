@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <section class="hero">
-  <h1>MSCA SPRING Doctoral Network</h1>
+  <h1>MSCA Doctoral Network SPRING </h1>
   <p>
     <strong> Preparing the next generation experts in critical entities resilience design. </strong>
   </p>
