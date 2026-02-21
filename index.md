@@ -28,7 +28,8 @@ permalink: /
 <section class="highlights">
   <h2>What is SPRING?</h2>
   <p class="section-intro">
-    The project aims to develop an innovative research and training programme to train fifteen doctoral candidates, who will collectively engage in an ambitious interdisciplinary research project focusing on aspects related to the resilience design, real-time monitoring and control, anomaly detection and isolation, and incident response, in geographically distributed systems of cyber-physical systems. <br><br>
+
+    The MSCA Doctoral Network for resilience experts in future large-scale critical infrastructures aims to develop an innovative research and training programme to train fifteen doctoral candidates, who will collectively engage in an ambitious interdisciplinary research project focusing on aspects related to the resilience design, real-time monitoring and control, anomaly detection and isolation, and incident response, in geographically distributed systems of cyber-physical systems. <br><br>
     
     The PhD topics will investigate open research questions about the use of systems and control theory, formal methods, explainable AI, data-driven approaches, and human-centered design to build safe and resilient societal-scale critical entities. The project will also promote industrial excellence by offering opportunities to the researchers for testing their tools and frameworks in real-world scenarios, provided by the industrial partners. <br><br>
     
