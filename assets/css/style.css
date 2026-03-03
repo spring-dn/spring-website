@@ -13,6 +13,8 @@
   --shadow-soft: 0 10px 30px rgba(15, 23, 42, 0.05);
   --radius: 1rem;
   --radius-pill: 999px;
+  --cta-green: #1a7f4b;
+  --cta-green-dark: #145f38;
 }
 
 /* Reset-ish */
@@ -62,7 +64,7 @@ body {
   padding: 1.75rem 1.25rem 2.5rem;
 }
 
-.site-footer > div {
+.site-footer>div {
   max-width: 1120px;
   margin: 0 auto;
 }
@@ -219,7 +221,8 @@ body {
 /* Buttons */
 
 .button,
-.button-secondary {
+.button-secondary,
+.button-apply {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -256,6 +259,22 @@ body {
 .button-secondary:hover {
   background: #ffffff;
   border-color: var(--eu-blue);
+}
+
+.hero-actions .button-apply,
+.button-apply,
+.btn-apply {
+  background: #1a7f4b !important;
+  color: #ffffff !important;
+  border-color: #1a7f4b !important;
+  box-shadow: 0 10px 20px rgba(26, 127, 75, 0.25) !important;
+}
+
+.btn-apply:hover,
+.button-apply:hover {
+  background: var(--cta-green-dark) !important;
+  border-color: var(--cta-green-dark) !important;
+  transform: translateY(-1px);
 }
 
 /* Generic sections */
@@ -400,7 +419,7 @@ code {
   .cards-grid {
     grid-template-columns: repeat(2, 1fr);
   }
-  
+
   .top-bar {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
@@ -430,7 +449,7 @@ code {
   .cards-grid {
     grid-template-columns: 1fr;
   }
-  
+
   .site-content {
     padding: 1.25rem 0.9rem 3rem;
   }
@@ -453,7 +472,8 @@ details {
 summary {
   font-weight: bold;
   cursor: pointer;
-  list-style: none; /* Hide default triangle */
+  list-style: none;
+  /* Hide default triangle */
   position: relative;
   padding-right: 2rem;
   color: var(--eu-blue);
@@ -464,7 +484,7 @@ summary::-webkit-details-marker {
 }
 
 summary::after {
-  content: '+'; 
+  content: '+';
   position: absolute;
   right: 0;
   top: 0;
@@ -474,7 +494,8 @@ summary::after {
 }
 
 details[open] summary::after {
-  content: '\2212'; /* Minus sign */
+  content: '\2212';
+  /* Minus sign */
 }
 
 .project-details {

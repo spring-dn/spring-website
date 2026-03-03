@@ -172,7 +172,7 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
     </div>
     </div>
 </details>
@@ -229,7 +229,7 @@ M. S. Branicky: Multiple Lyapunov functions and other analysis tools for switche
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
     </div>
   </div>
 </details>
@@ -291,7 +291,7 @@ Q.P. Ha, et al., Partial state estimation for linear systems with output and inp
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
   
     </div>
   </div>
@@ -400,7 +400,7 @@ depending on competences and experience. From the salary 2% is deducted in statu
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-        <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+        <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
   </div>
   </div>
 </details>
@@ -464,7 +464,7 @@ Remuneration is based on pay scale 13 of the collective agreement for the public
 
         <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-     <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+     <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -518,7 +518,7 @@ Ciravegna, Gabriele, et al. "Human-Driven FOL Explanations of Deep Learning." IJ
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
 
     </div>
   </div>
@@ -576,7 +576,7 @@ The gross  (Brutto) annual salary (including living and mobility allowances) wil
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+      <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
     </div>
   </div>
 </details>
@@ -634,7 +634,7 @@ Romain Cayre, et al., OASIS: An Intrusion Detection System Embedded in Bluetooth
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -692,7 +692,7 @@ Huang, et al. (2024). “V2X Cooperative Perception for Autonomous Driving: Rece
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -755,7 +755,7 @@ SIEMENS (DE) M. A. Wischy, M33-M35, 3M, application for railways resilient opera
   
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
    </div> 
 </details>
@@ -816,7 +816,7 @@ Y. Zhou, M. Panteli, et al., «System-level assessment of reliability and resili
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -867,7 +867,7 @@ Madni, A.M., Madni, C.C. and Lucero, S.D., Leveraging digital twin technology in
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -927,7 +927,7 @@ M. Fränzle, Y. Gao, S. Gerwinn: Constraint-Solving Techniques for the Analysis 
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -984,7 +984,7 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+    <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
       </div>
   </div>
 </details>
@@ -1042,7 +1042,7 @@ Applicants must hold a Master's degree or equivalent in computer science, mathem
 
     <div class="action-buttons">
       <a href="{{ '/assets/consent_form_spring.pdf' | relative_url }}" class="btn btn-primary" target="_blank">Download consent form</a>
-        <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-primary">Apply online for these positions</a>
+        <a href="https://forms.gle/Ddzx69BumaSjFMvYA" class="btn btn-apply">Apply online for these positions</a>
   </div>
   </div>
 </details>
