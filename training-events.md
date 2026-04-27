@@ -9,7 +9,7 @@ final workshop and a final conference, that will build the framework for an inte
 training program to educate the next generation of top-notch European resilience researchers and experts. 
 </p>
 
-<h3 style="margin-top: 0; color: var(--eu-blue);">Main Training Events and Conferences</h3>
+<h3 style="margin-top: 0; color: var(--eu-blue);">SPRING Training Events and Conferences</h3>
  
 <ul>
     <li> School 1: Model-based provable guarantees  </li>
