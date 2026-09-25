@@ -18,7 +18,7 @@ permalink: /
   <div class="hero-actions">
     <a href="{{ '/doctoral-projects/' | relative_url }}" class="button">View doctoral projects (DC1–DC15)</a>  
     <a href="{{ '/project/' | relative_url }}" class="button-secondary">Learn more about the project</a>
-    <a href="{{ '/doctoral-projects/' | relative_url }}" class="button button-apply">Apply for DC positions / PhD positions</a>
+  <!--  <a href="{{ '/doctoral-projects/' | relative_url }}" class="button button-apply">Apply for DC positions / PhD positions</a>   (NR on 25/09/2026)-->
   </div>
 
 </section>
@@ -35,16 +35,17 @@ permalink: /
   </p>
 </section>
 
+<!-- 
 <section class="recruitment-callout" style="background: var(--eu-blue-soft); border-left: 4px solid var(--eu-blue); padding: 1.5rem 2rem; margin: 2rem 0; border-radius: var(--radius);">
   <h2 style="margin-top: 0; color: var(--eu-blue);">Applications Open</h2>
   <p style="margin-bottom: 0.5rem;"><strong>Application deadline:</strong> 1st April 2026</p>
   <p style="margin-bottom: 0.5rem;"><strong>Position starting date:</strong> September 2026</p>
-<!--  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.95rem; color: var(--text-muted);">More details about the application and recruitment process are given in Open Positions tab.</p> -->
+  <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 0.95rem; color: var(--text-muted);">More details about the application and recruitment process are given in Open Positions tab.</p> 
   <div style="margin-top: 1rem;">
     <a href="{{ '/doctoral-projects/' | relative_url }}" class="button button-apply">Apply for DC positions / PhD positions</a>
   </div>
 </section>
-
+(NR on 25/09/2026) -->
 <section class="latest-news">
   <h2>Latest News</h2>
   <ul class="news-list">
