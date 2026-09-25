@@ -6,8 +6,8 @@ permalink: /people/
 
 ## Coordination & Management
 
-- **Project Coordinator (PC)** – Prof. Nacim Ramdani (Université d’Orléans, UOR)
-- **Project Manager (PM)** – To be appointed
+- **Project Coordinator (PC)** – Prof. Nacim Ramdani (Université d’Orleans, UOR)
+- **Project Manager (PM)** – Ms Virginie Le Tallec (Université d’Orleans, UOR)
 - **Exploitation Manager** – Dr. Stamatia Rizou (SingularLogic, SLG)
 - **Dissemination & Communication Leader** – Dr. Demetrios Eliades (University of Cyprus, UCY)
 
