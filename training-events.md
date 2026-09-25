@@ -12,7 +12,7 @@ training program to educate the next generation of top-notch European resilience
 <h3 style="margin-top: 0; color: var(--eu-blue);">SPRING Training Events and Conferences</h3>
  
 <ul>
-    <li> School 1: Model-based provable guarantees  </li>
+    <li> <a href="https://forms.gle/Ddzx69BumaSjFMvYA">  School 1: Model-based provable guarantees </a></li>
     <li> School 2: Data-driven approaches to resilience and safety </li>
     <li> School 3: Human-centered approaches to trusted resilience </li>
     <li> Applied Research Seminar 1: CI in Transportation Sector </li>
